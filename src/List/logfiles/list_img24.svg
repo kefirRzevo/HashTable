@@ -9,6 +9,11 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 113)">
 <title>G</title>
 <polygon fill="white" stroke="transparent" points="-4,4 -4,-113 5434,-113 5434,4 -4,4"/>
+<g id="clust1" class="cluster">
+<title>cluster960</title>
+<polygon fill="none" stroke="black" points="8,-8 8,-101 95,-101 95,-8 8,-8"/>
+<text text-anchor="middle" x="51.5" y="-85.8" font-family="Times,serif" font-size="14.00">960</text>
+</g>
 <g id="clust2" class="cluster">
 <title>cluster961</title>
 <polygon fill="none" stroke="black" points="131,-8 131,-101 219,-101 219,-8 131,-8"/>
@@ -71,18 +76,18 @@
 </g>
 <g id="clust14" class="cluster">
 <title>cluster973</title>
-<polygon fill="none" stroke="black" points="1620,-8 1620,-101 1707,-101 1707,-8 1620,-8"/>
-<text text-anchor="middle" x="1663.5" y="-85.8" font-family="Times,serif" font-size="14.00">973</text>
+<polygon fill="none" stroke="black" points="1620,-8 1620,-101 1708,-101 1708,-8 1620,-8"/>
+<text text-anchor="middle" x="1664" y="-85.8" font-family="Times,serif" font-size="14.00">973</text>
 </g>
 <g id="clust15" class="cluster">
 <title>cluster974</title>
-<polygon fill="none" stroke="black" points="1743,-8 1743,-101 1831,-101 1831,-8 1743,-8"/>
-<text text-anchor="middle" x="1787" y="-85.8" font-family="Times,serif" font-size="14.00">974</text>
+<polygon fill="none" stroke="black" points="1744,-8 1744,-101 1832,-101 1832,-8 1744,-8"/>
+<text text-anchor="middle" x="1788" y="-85.8" font-family="Times,serif" font-size="14.00">974</text>
 </g>
 <g id="clust16" class="cluster">
 <title>cluster975</title>
-<polygon fill="none" stroke="black" points="1867,-8 1867,-101 1955,-101 1955,-8 1867,-8"/>
-<text text-anchor="middle" x="1911" y="-85.8" font-family="Times,serif" font-size="14.00">975</text>
+<polygon fill="none" stroke="black" points="1868,-8 1868,-101 1955,-101 1955,-8 1868,-8"/>
+<text text-anchor="middle" x="1911.5" y="-85.8" font-family="Times,serif" font-size="14.00">975</text>
 </g>
 <g id="clust17" class="cluster">
 <title>cluster976</title>
@@ -91,28 +96,28 @@
 </g>
 <g id="clust18" class="cluster">
 <title>cluster977</title>
-<polygon fill="none" stroke="black" points="2115,-8 2115,-101 2203,-101 2203,-8 2115,-8"/>
-<text text-anchor="middle" x="2159" y="-85.8" font-family="Times,serif" font-size="14.00">977</text>
+<polygon fill="none" stroke="black" points="2115,-8 2115,-101 2202,-101 2202,-8 2115,-8"/>
+<text text-anchor="middle" x="2158.5" y="-85.8" font-family="Times,serif" font-size="14.00">977</text>
 </g>
 <g id="clust19" class="cluster">
 <title>cluster978</title>
-<polygon fill="none" stroke="black" points="2239,-8 2239,-101 2327,-101 2327,-8 2239,-8"/>
-<text text-anchor="middle" x="2283" y="-85.8" font-family="Times,serif" font-size="14.00">978</text>
+<polygon fill="none" stroke="black" points="2238,-8 2238,-101 2326,-101 2326,-8 2238,-8"/>
+<text text-anchor="middle" x="2282" y="-85.8" font-family="Times,serif" font-size="14.00">978</text>
 </g>
 <g id="clust20" class="cluster">
 <title>cluster979</title>
-<polygon fill="none" stroke="black" points="2363,-8 2363,-101 2451,-101 2451,-8 2363,-8"/>
-<text text-anchor="middle" x="2407" y="-85.8" font-family="Times,serif" font-size="14.00">979</text>
+<polygon fill="none" stroke="black" points="2362,-8 2362,-101 2450,-101 2450,-8 2362,-8"/>
+<text text-anchor="middle" x="2406" y="-85.8" font-family="Times,serif" font-size="14.00">979</text>
 </g>
 <g id="clust21" class="cluster">
 <title>cluster980</title>
-<polygon fill="none" stroke="black" points="2487,-8 2487,-101 2575,-101 2575,-8 2487,-8"/>
-<text text-anchor="middle" x="2531" y="-85.8" font-family="Times,serif" font-size="14.00">980</text>
+<polygon fill="none" stroke="black" points="2486,-8 2486,-101 2574,-101 2574,-8 2486,-8"/>
+<text text-anchor="middle" x="2530" y="-85.8" font-family="Times,serif" font-size="14.00">980</text>
 </g>
 <g id="clust22" class="cluster">
 <title>cluster981</title>
-<polygon fill="none" stroke="black" points="2611,-8 2611,-101 2698,-101 2698,-8 2611,-8"/>
-<text text-anchor="middle" x="2654.5" y="-85.8" font-family="Times,serif" font-size="14.00">981</text>
+<polygon fill="none" stroke="black" points="2610,-8 2610,-101 2698,-101 2698,-8 2610,-8"/>
+<text text-anchor="middle" x="2654" y="-85.8" font-family="Times,serif" font-size="14.00">981</text>
 </g>
 <g id="clust23" class="cluster">
 <title>cluster982</title>
@@ -126,13 +131,13 @@
 </g>
 <g id="clust25" class="cluster">
 <title>cluster984</title>
-<polygon fill="none" stroke="black" points="2982,-8 2982,-101 3070,-101 3070,-8 2982,-8"/>
-<text text-anchor="middle" x="3026" y="-85.8" font-family="Times,serif" font-size="14.00">984</text>
+<polygon fill="none" stroke="black" points="2982,-8 2982,-101 3069,-101 3069,-8 2982,-8"/>
+<text text-anchor="middle" x="3025.5" y="-85.8" font-family="Times,serif" font-size="14.00">984</text>
 </g>
 <g id="clust26" class="cluster">
 <title>cluster985</title>
-<polygon fill="none" stroke="black" points="3106,-8 3106,-101 3193,-101 3193,-8 3106,-8"/>
-<text text-anchor="middle" x="3149.5" y="-85.8" font-family="Times,serif" font-size="14.00">985</text>
+<polygon fill="none" stroke="black" points="3105,-8 3105,-101 3193,-101 3193,-8 3105,-8"/>
+<text text-anchor="middle" x="3149" y="-85.8" font-family="Times,serif" font-size="14.00">985</text>
 </g>
 <g id="clust27" class="cluster">
 <title>cluster986</title>
@@ -181,13 +186,13 @@
 </g>
 <g id="clust36" class="cluster">
 <title>cluster995</title>
-<polygon fill="none" stroke="black" points="4345,-8 4345,-101 4432,-101 4432,-8 4345,-8"/>
-<text text-anchor="middle" x="4388.5" y="-85.8" font-family="Times,serif" font-size="14.00">995</text>
+<polygon fill="none" stroke="black" points="4345,-8 4345,-101 4433,-101 4433,-8 4345,-8"/>
+<text text-anchor="middle" x="4389" y="-85.8" font-family="Times,serif" font-size="14.00">995</text>
 </g>
 <g id="clust37" class="cluster">
 <title>cluster996</title>
-<polygon fill="none" stroke="black" points="4468,-8 4468,-101 4556,-101 4556,-8 4468,-8"/>
-<text text-anchor="middle" x="4512" y="-85.8" font-family="Times,serif" font-size="14.00">996</text>
+<polygon fill="none" stroke="black" points="4469,-8 4469,-101 4556,-101 4556,-8 4469,-8"/>
+<text text-anchor="middle" x="4512.5" y="-85.8" font-family="Times,serif" font-size="14.00">996</text>
 </g>
 <g id="clust38" class="cluster">
 <title>cluster997</title>
@@ -196,824 +201,819 @@
 </g>
 <g id="clust39" class="cluster">
 <title>cluster998</title>
-<polygon fill="none" stroke="black" points="4715,-8 4715,-101 4803,-101 4803,-8 4715,-8"/>
-<text text-anchor="middle" x="4759" y="-85.8" font-family="Times,serif" font-size="14.00">998</text>
+<polygon fill="none" stroke="black" points="4715,-8 4715,-101 4802,-101 4802,-8 4715,-8"/>
+<text text-anchor="middle" x="4758.5" y="-85.8" font-family="Times,serif" font-size="14.00">998</text>
 </g>
 <g id="clust40" class="cluster">
 <title>cluster999</title>
-<polygon fill="none" stroke="black" points="4839,-8 4839,-101 4927,-101 4927,-8 4839,-8"/>
-<text text-anchor="middle" x="4883" y="-85.8" font-family="Times,serif" font-size="14.00">999</text>
+<polygon fill="none" stroke="black" points="4838,-8 4838,-101 4926,-101 4926,-8 4838,-8"/>
+<text text-anchor="middle" x="4882" y="-85.8" font-family="Times,serif" font-size="14.00">999</text>
 </g>
 <g id="clust41" class="cluster">
 <title>cluster1000</title>
-<polygon fill="none" stroke="black" points="4963,-8 4963,-101 5051,-101 5051,-8 4963,-8"/>
-<text text-anchor="middle" x="5007" y="-85.8" font-family="Times,serif" font-size="14.00">1000</text>
+<polygon fill="none" stroke="black" points="4962,-8 4962,-101 5050,-101 5050,-8 4962,-8"/>
+<text text-anchor="middle" x="5006" y="-85.8" font-family="Times,serif" font-size="14.00">1000</text>
 </g>
 <g id="clust42" class="cluster">
 <title>cluster1001</title>
-<polygon fill="none" stroke="black" points="5087,-8 5087,-101 5175,-101 5175,-8 5087,-8"/>
-<text text-anchor="middle" x="5131" y="-85.8" font-family="Times,serif" font-size="14.00">1001</text>
+<polygon fill="none" stroke="black" points="5086,-8 5086,-101 5174,-101 5174,-8 5086,-8"/>
+<text text-anchor="middle" x="5130" y="-85.8" font-family="Times,serif" font-size="14.00">1001</text>
 </g>
 <g id="clust43" class="cluster">
 <title>cluster1002</title>
-<polygon fill="none" stroke="black" points="5211,-8 5211,-101 5299,-101 5299,-8 5211,-8"/>
-<text text-anchor="middle" x="5255" y="-85.8" font-family="Times,serif" font-size="14.00">1002</text>
+<polygon fill="none" stroke="black" points="5210,-8 5210,-101 5298,-101 5298,-8 5210,-8"/>
+<text text-anchor="middle" x="5254" y="-85.8" font-family="Times,serif" font-size="14.00">1002</text>
 </g>
 <g id="clust44" class="cluster">
 <title>cluster1003</title>
-<polygon fill="none" stroke="black" points="5335,-8 5335,-101 5422,-101 5422,-8 5335,-8"/>
-<text text-anchor="middle" x="5378.5" y="-85.8" font-family="Times,serif" font-size="14.00">1003</text>
+<polygon fill="none" stroke="black" points="5334,-8 5334,-101 5422,-101 5422,-8 5334,-8"/>
+<text text-anchor="middle" x="5378" y="-85.8" font-family="Times,serif" font-size="14.00">1003</text>
 </g>
-<g id="clust1" class="cluster">
-<title>cluster960</title>
-<polygon fill="none" stroke="black" points="8,-8 8,-101 95,-101 95,-8 8,-8"/>
-<text text-anchor="middle" x="51.5" y="-85.8" font-family="Times,serif" font-size="14.00">960</text>
-</g>
-<!-- Node0x600001e618c0 -->
+<!-- Node0x6000007118c0 -->
 <g id="node1" class="node">
-<title>Node0x600001e618c0</title>
+<title>Node0x6000007118c0</title>
 <polygon fill="none" stroke="black" points="8,-9 8,-77 95,-77 95,-9 8,-9"/>
 <text text-anchor="middle" x="51.5" y="-66.6" font-family="Times,serif" font-size="8.00">word: these</text>
 <polyline fill="none" stroke="black" points="8,-60 95,-60 "/>
 <text text-anchor="middle" x="51.5" y="-49.6" font-family="Times,serif" font-size="8.00">size: 36</text>
 <polyline fill="none" stroke="black" points="8,-43 95,-43 "/>
-<text text-anchor="middle" x="51.5" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e62790</text>
+<text text-anchor="middle" x="51.5" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600000712790</text>
 <polyline fill="none" stroke="black" points="8,-26 95,-26 "/>
 <text text-anchor="middle" x="51.5" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x0</text>
 </g>
-<!-- Node0x600001e62790 -->
+<!-- Node0x600000712790 -->
 <g id="node2" class="node">
-<title>Node0x600001e62790</title>
+<title>Node0x600000712790</title>
 <polygon fill="none" stroke="black" points="131,-9 131,-77 219,-77 219,-9 131,-9"/>
 <text text-anchor="middle" x="175" y="-66.6" font-family="Times,serif" font-size="8.00">word: while</text>
 <polyline fill="none" stroke="black" points="131,-60 219,-60 "/>
 <text text-anchor="middle" x="175" y="-49.6" font-family="Times,serif" font-size="8.00">size: 5</text>
 <polyline fill="none" stroke="black" points="131,-43 219,-43 "/>
-<text text-anchor="middle" x="175" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e627c0</text>
+<text text-anchor="middle" x="175" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x6000007127c0</text>
 <polyline fill="none" stroke="black" points="131,-26 219,-26 "/>
-<text text-anchor="middle" x="175" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e618c0</text>
+<text text-anchor="middle" x="175" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x6000007118c0</text>
 </g>
-<!-- Node0x600001e618c0&#45;&gt;Node0x600001e62790 -->
+<!-- Node0x6000007118c0&#45;&gt;Node0x600000712790 -->
 <g id="edge1" class="edge">
-<title>Node0x600001e618c0:n&#45;&gt;Node0x600001e62790:n</title>
+<title>Node0x6000007118c0:n&#45;&gt;Node0x600000712790:n</title>
 <path fill="none" stroke="red" d="M95,-34C107,-34 112.25,-34 120.88,-34"/>
 <polygon fill="red" stroke="red" points="121,-37.5 131,-34 121,-30.5 121,-37.5"/>
 </g>
-<!-- Node0x600001e627c0 -->
+<!-- Node0x6000007127c0 -->
 <g id="node3" class="node">
-<title>Node0x600001e627c0</title>
+<title>Node0x6000007127c0</title>
 <polygon fill="none" stroke="black" points="255,-9 255,-77 343,-77 343,-9 255,-9"/>
 <text text-anchor="middle" x="299" y="-66.6" font-family="Times,serif" font-size="8.00">word: live</text>
 <polyline fill="none" stroke="black" points="255,-60 343,-60 "/>
 <text text-anchor="middle" x="299" y="-49.6" font-family="Times,serif" font-size="8.00">size: 16</text>
 <polyline fill="none" stroke="black" points="255,-43 343,-43 "/>
-<text text-anchor="middle" x="299" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e628b0</text>
+<text text-anchor="middle" x="299" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x6000007128b0</text>
 <polyline fill="none" stroke="black" points="255,-26 343,-26 "/>
-<text text-anchor="middle" x="299" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e62790</text>
+<text text-anchor="middle" x="299" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600000712790</text>
 </g>
-<!-- Node0x600001e62790&#45;&gt;Node0x600001e627c0 -->
+<!-- Node0x600000712790&#45;&gt;Node0x6000007127c0 -->
 <g id="edge2" class="edge">
-<title>Node0x600001e62790:n&#45;&gt;Node0x600001e627c0:n</title>
+<title>Node0x600000712790:n&#45;&gt;Node0x6000007127c0:n</title>
 <path fill="none" stroke="red" d="M219,-34C231,-34 236.25,-34 244.88,-34"/>
 <polygon fill="red" stroke="red" points="245,-37.5 255,-34 245,-30.5 245,-37.5"/>
 </g>
-<!-- Node0x600001e628b0 -->
+<!-- Node0x6000007128b0 -->
 <g id="node4" class="node">
-<title>Node0x600001e628b0</title>
+<title>Node0x6000007128b0</title>
 <polygon fill="none" stroke="black" points="379,-9 379,-77 467,-77 467,-9 379,-9"/>
 <text text-anchor="middle" x="423" y="-66.6" font-family="Times,serif" font-size="8.00">word: strike</text>
 <polyline fill="none" stroke="black" points="379,-60 467,-60 "/>
 <text text-anchor="middle" x="423" y="-49.6" font-family="Times,serif" font-size="8.00">size: 3</text>
 <polyline fill="none" stroke="black" points="379,-43 467,-43 "/>
-<text text-anchor="middle" x="423" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e62e80</text>
+<text text-anchor="middle" x="423" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600000712e80</text>
 <polyline fill="none" stroke="black" points="379,-26 467,-26 "/>
-<text text-anchor="middle" x="423" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e627c0</text>
+<text text-anchor="middle" x="423" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x6000007127c0</text>
 </g>
-<!-- Node0x600001e627c0&#45;&gt;Node0x600001e628b0 -->
+<!-- Node0x6000007127c0&#45;&gt;Node0x6000007128b0 -->
 <g id="edge3" class="edge">
-<title>Node0x600001e627c0:n&#45;&gt;Node0x600001e628b0:n</title>
+<title>Node0x6000007127c0:n&#45;&gt;Node0x6000007128b0:n</title>
 <path fill="none" stroke="red" d="M343,-34C355,-34 360.25,-34 368.88,-34"/>
 <polygon fill="red" stroke="red" points="369,-37.5 379,-34 369,-30.5 369,-37.5"/>
 </g>
-<!-- Node0x600001e62e80 -->
+<!-- Node0x600000712e80 -->
 <g id="node5" class="node">
-<title>Node0x600001e62e80</title>
+<title>Node0x600000712e80</title>
 <polygon fill="none" stroke="black" points="503,-9 503,-77 591,-77 591,-9 503,-9"/>
 <text text-anchor="middle" x="547" y="-66.6" font-family="Times,serif" font-size="8.00">word: slave</text>
 <polyline fill="none" stroke="black" points="503,-60 591,-60 "/>
 <text text-anchor="middle" x="547" y="-49.6" font-family="Times,serif" font-size="8.00">size: 3</text>
 <polyline fill="none" stroke="black" points="503,-43 591,-43 "/>
-<text text-anchor="middle" x="547" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e63060</text>
+<text text-anchor="middle" x="547" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600000713060</text>
 <polyline fill="none" stroke="black" points="503,-26 591,-26 "/>
-<text text-anchor="middle" x="547" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e628b0</text>
+<text text-anchor="middle" x="547" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x6000007128b0</text>
 </g>
-<!-- Node0x600001e628b0&#45;&gt;Node0x600001e62e80 -->
+<!-- Node0x6000007128b0&#45;&gt;Node0x600000712e80 -->
 <g id="edge4" class="edge">
-<title>Node0x600001e628b0:n&#45;&gt;Node0x600001e62e80:n</title>
+<title>Node0x6000007128b0:n&#45;&gt;Node0x600000712e80:n</title>
 <path fill="none" stroke="red" d="M467,-34C479,-34 484.25,-34 492.88,-34"/>
 <polygon fill="red" stroke="red" points="493,-37.5 503,-34 493,-30.5 493,-37.5"/>
 </g>
-<!-- Node0x600001e63060 -->
+<!-- Node0x600000713060 -->
 <g id="node6" class="node">
-<title>Node0x600001e63060</title>
+<title>Node0x600000713060</title>
 <polygon fill="none" stroke="black" points="627,-9 627,-77 715,-77 715,-9 627,-9"/>
 <text text-anchor="middle" x="671" y="-66.6" font-family="Times,serif" font-size="8.00">word: ever</text>
 <polyline fill="none" stroke="black" points="627,-60 715,-60 "/>
 <text text-anchor="middle" x="671" y="-49.6" font-family="Times,serif" font-size="8.00">size: 12</text>
 <polyline fill="none" stroke="black" points="627,-43 715,-43 "/>
-<text text-anchor="middle" x="671" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e63a80</text>
+<text text-anchor="middle" x="671" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600000713a80</text>
 <polyline fill="none" stroke="black" points="627,-26 715,-26 "/>
-<text text-anchor="middle" x="671" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e62e80</text>
+<text text-anchor="middle" x="671" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600000712e80</text>
 </g>
-<!-- Node0x600001e62e80&#45;&gt;Node0x600001e63060 -->
+<!-- Node0x600000712e80&#45;&gt;Node0x600000713060 -->
 <g id="edge5" class="edge">
-<title>Node0x600001e62e80:n&#45;&gt;Node0x600001e63060:n</title>
+<title>Node0x600000712e80:n&#45;&gt;Node0x600000713060:n</title>
 <path fill="none" stroke="red" d="M591,-34C603,-34 608.25,-34 616.88,-34"/>
 <polygon fill="red" stroke="red" points="617,-37.5 627,-34 617,-30.5 617,-37.5"/>
 </g>
-<!-- Node0x600001e63a80 -->
+<!-- Node0x600000713a80 -->
 <g id="node7" class="node">
-<title>Node0x600001e63a80</title>
+<title>Node0x600000713a80</title>
 <polygon fill="none" stroke="black" points="751,-9 751,-77 840,-77 840,-9 751,-9"/>
 <text text-anchor="middle" x="795.5" y="-66.6" font-family="Times,serif" font-size="8.00">word: MONTAGUES</text>
 <polyline fill="none" stroke="black" points="751,-60 840,-60 "/>
 <text text-anchor="middle" x="795.5" y="-49.6" font-family="Times,serif" font-size="8.00">size: 1</text>
 <polyline fill="none" stroke="black" points="751,-43 840,-43 "/>
-<text text-anchor="middle" x="795.5" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e685a0</text>
+<text text-anchor="middle" x="795.5" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600000714690</text>
 <polyline fill="none" stroke="black" points="751,-26 840,-26 "/>
-<text text-anchor="middle" x="795.5" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e63060</text>
+<text text-anchor="middle" x="795.5" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600000713060</text>
 </g>
-<!-- Node0x600001e63060&#45;&gt;Node0x600001e63a80 -->
+<!-- Node0x600000713060&#45;&gt;Node0x600000713a80 -->
 <g id="edge6" class="edge">
-<title>Node0x600001e63060:n&#45;&gt;Node0x600001e63a80:n</title>
+<title>Node0x600000713060:n&#45;&gt;Node0x600000713a80:n</title>
 <path fill="none" stroke="red" d="M715,-34C727,-34 732.25,-34 740.88,-34"/>
 <polygon fill="red" stroke="red" points="741,-37.5 751,-34 741,-30.5 741,-37.5"/>
 </g>
-<!-- Node0x600001e685a0 -->
+<!-- Node0x600000714690 -->
 <g id="node8" class="node">
-<title>Node0x600001e685a0</title>
+<title>Node0x600000714690</title>
 <polygon fill="none" stroke="black" points="876,-9 876,-77 964,-77 964,-9 876,-9"/>
 <text text-anchor="middle" x="920" y="-66.6" font-family="Times,serif" font-size="8.00">word: among</text>
 <polyline fill="none" stroke="black" points="876,-60 964,-60 "/>
 <text text-anchor="middle" x="920" y="-49.6" font-family="Times,serif" font-size="8.00">size: 4</text>
 <polyline fill="none" stroke="black" points="876,-43 964,-43 "/>
-<text text-anchor="middle" x="920" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e6a580</text>
+<text text-anchor="middle" x="920" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600000716670</text>
 <polyline fill="none" stroke="black" points="876,-26 964,-26 "/>
-<text text-anchor="middle" x="920" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e63a80</text>
+<text text-anchor="middle" x="920" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600000713a80</text>
 </g>
-<!-- Node0x600001e63a80&#45;&gt;Node0x600001e685a0 -->
+<!-- Node0x600000713a80&#45;&gt;Node0x600000714690 -->
 <g id="edge7" class="edge">
-<title>Node0x600001e63a80:n&#45;&gt;Node0x600001e685a0:n</title>
+<title>Node0x600000713a80:n&#45;&gt;Node0x600000714690:n</title>
 <path fill="none" stroke="red" d="M840,-34C852,-34 857.25,-34 865.88,-34"/>
 <polygon fill="red" stroke="red" points="866,-37.5 876,-34 866,-30.5 866,-37.5"/>
 </g>
-<!-- Node0x600001e6a580 -->
+<!-- Node0x600000716670 -->
 <g id="node9" class="node">
-<title>Node0x600001e6a580</title>
+<title>Node0x600000716670</title>
 <polygon fill="none" stroke="black" points="1000,-9 1000,-77 1088,-77 1088,-9 1000,-9"/>
 <text text-anchor="middle" x="1044" y="-66.6" font-family="Times,serif" font-size="8.00">word: either</text>
 <polyline fill="none" stroke="black" points="1000,-60 1088,-60 "/>
 <text text-anchor="middle" x="1044" y="-49.6" font-family="Times,serif" font-size="8.00">size: 5</text>
 <polyline fill="none" stroke="black" points="1000,-43 1088,-43 "/>
-<text text-anchor="middle" x="1044" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e6a8e0</text>
+<text text-anchor="middle" x="1044" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x6000007169d0</text>
 <polyline fill="none" stroke="black" points="1000,-26 1088,-26 "/>
-<text text-anchor="middle" x="1044" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e685a0</text>
+<text text-anchor="middle" x="1044" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600000714690</text>
 </g>
-<!-- Node0x600001e685a0&#45;&gt;Node0x600001e6a580 -->
+<!-- Node0x600000714690&#45;&gt;Node0x600000716670 -->
 <g id="edge8" class="edge">
-<title>Node0x600001e685a0:n&#45;&gt;Node0x600001e6a580:n</title>
+<title>Node0x600000714690:n&#45;&gt;Node0x600000716670:n</title>
 <path fill="none" stroke="red" d="M964,-34C976,-34 981.25,-34 989.88,-34"/>
 <polygon fill="red" stroke="red" points="990,-37.5 1000,-34 990,-30.5 990,-37.5"/>
 </g>
-<!-- Node0x600001e6a8e0 -->
+<!-- Node0x6000007169d0 -->
 <g id="node10" class="node">
-<title>Node0x600001e6a8e0</title>
+<title>Node0x6000007169d0</title>
 <polygon fill="none" stroke="black" points="1124,-9 1124,-77 1212,-77 1212,-9 1124,-9"/>
 <text text-anchor="middle" x="1168" y="-66.6" font-family="Times,serif" font-size="8.00">word: drave</text>
 <polyline fill="none" stroke="black" points="1124,-60 1212,-60 "/>
 <text text-anchor="middle" x="1168" y="-49.6" font-family="Times,serif" font-size="8.00">size: 1</text>
 <polyline fill="none" stroke="black" points="1124,-43 1212,-43 "/>
-<text text-anchor="middle" x="1168" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e6ba80</text>
+<text text-anchor="middle" x="1168" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600000717b70</text>
 <polyline fill="none" stroke="black" points="1124,-26 1212,-26 "/>
-<text text-anchor="middle" x="1168" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e6a580</text>
+<text text-anchor="middle" x="1168" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600000716670</text>
 </g>
-<!-- Node0x600001e6a580&#45;&gt;Node0x600001e6a8e0 -->
+<!-- Node0x600000716670&#45;&gt;Node0x6000007169d0 -->
 <g id="edge9" class="edge">
-<title>Node0x600001e6a580:n&#45;&gt;Node0x600001e6a8e0:n</title>
+<title>Node0x600000716670:n&#45;&gt;Node0x6000007169d0:n</title>
 <path fill="none" stroke="red" d="M1088,-34C1100,-34 1105.25,-34 1113.88,-34"/>
 <polygon fill="red" stroke="red" points="1114,-37.5 1124,-34 1114,-30.5 1114,-37.5"/>
 </g>
-<!-- Node0x600001e6ba80 -->
+<!-- Node0x600000717b70 -->
 <g id="node11" class="node">
-<title>Node0x600001e6ba80</title>
+<title>Node0x600000717b70</title>
 <polygon fill="none" stroke="black" points="1248,-9 1248,-77 1336,-77 1336,-9 1248,-9"/>
 <text text-anchor="middle" x="1292" y="-66.6" font-family="Times,serif" font-size="8.00">word: far</text>
 <polyline fill="none" stroke="black" points="1248,-60 1336,-60 "/>
 <text text-anchor="middle" x="1292" y="-49.6" font-family="Times,serif" font-size="8.00">size: 5</text>
 <polyline fill="none" stroke="black" points="1248,-43 1336,-43 "/>
-<text text-anchor="middle" x="1292" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e6c3c0</text>
+<text text-anchor="middle" x="1292" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x6000007184b0</text>
 <polyline fill="none" stroke="black" points="1248,-26 1336,-26 "/>
-<text text-anchor="middle" x="1292" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e6a8e0</text>
+<text text-anchor="middle" x="1292" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x6000007169d0</text>
 </g>
-<!-- Node0x600001e6a8e0&#45;&gt;Node0x600001e6ba80 -->
+<!-- Node0x6000007169d0&#45;&gt;Node0x600000717b70 -->
 <g id="edge10" class="edge">
-<title>Node0x600001e6a8e0:n&#45;&gt;Node0x600001e6ba80:n</title>
+<title>Node0x6000007169d0:n&#45;&gt;Node0x600000717b70:n</title>
 <path fill="none" stroke="red" d="M1212,-34C1224,-34 1229.25,-34 1237.88,-34"/>
 <polygon fill="red" stroke="red" points="1238,-37.5 1248,-34 1238,-30.5 1238,-37.5"/>
 </g>
-<!-- Node0x600001e6c3c0 -->
+<!-- Node0x6000007184b0 -->
 <g id="node12" class="node">
-<title>Node0x600001e6c3c0</title>
+<title>Node0x6000007184b0</title>
 <polygon fill="none" stroke="black" points="1372,-9 1372,-77 1460,-77 1460,-9 1372,-9"/>
 <text text-anchor="middle" x="1416" y="-66.6" font-family="Times,serif" font-size="8.00">word: lengthens</text>
 <polyline fill="none" stroke="black" points="1372,-60 1460,-60 "/>
 <text text-anchor="middle" x="1416" y="-49.6" font-family="Times,serif" font-size="8.00">size: 1</text>
 <polyline fill="none" stroke="black" points="1372,-43 1460,-43 "/>
-<text text-anchor="middle" x="1416" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e6ef70</text>
+<text text-anchor="middle" x="1416" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x60000071c120</text>
 <polyline fill="none" stroke="black" points="1372,-26 1460,-26 "/>
-<text text-anchor="middle" x="1416" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e6ba80</text>
+<text text-anchor="middle" x="1416" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600000717b70</text>
 </g>
-<!-- Node0x600001e6ba80&#45;&gt;Node0x600001e6c3c0 -->
+<!-- Node0x600000717b70&#45;&gt;Node0x6000007184b0 -->
 <g id="edge11" class="edge">
-<title>Node0x600001e6ba80:n&#45;&gt;Node0x600001e6c3c0:n</title>
+<title>Node0x600000717b70:n&#45;&gt;Node0x6000007184b0:n</title>
 <path fill="none" stroke="red" d="M1336,-34C1348,-34 1353.25,-34 1361.88,-34"/>
 <polygon fill="red" stroke="red" points="1362,-37.5 1372,-34 1362,-30.5 1362,-37.5"/>
 </g>
-<!-- Node0x600001e6ef70 -->
+<!-- Node0x60000071c120 -->
 <g id="node13" class="node">
-<title>Node0x600001e6ef70</title>
+<title>Node0x60000071c120</title>
 <polygon fill="none" stroke="black" points="1496,-9 1496,-77 1584,-77 1584,-9 1496,-9"/>
 <text text-anchor="middle" x="1540" y="-66.6" font-family="Times,serif" font-size="8.00">word: woo</text>
 <polyline fill="none" stroke="black" points="1496,-60 1584,-60 "/>
 <text text-anchor="middle" x="1540" y="-49.6" font-family="Times,serif" font-size="8.00">size: 5</text>
 <polyline fill="none" stroke="black" points="1496,-43 1584,-43 "/>
-<text text-anchor="middle" x="1540" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e70bd0</text>
+<text text-anchor="middle" x="1540" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x60000071c660</text>
 <polyline fill="none" stroke="black" points="1496,-26 1584,-26 "/>
-<text text-anchor="middle" x="1540" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e6c3c0</text>
+<text text-anchor="middle" x="1540" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x6000007184b0</text>
 </g>
-<!-- Node0x600001e6c3c0&#45;&gt;Node0x600001e6ef70 -->
+<!-- Node0x6000007184b0&#45;&gt;Node0x60000071c120 -->
 <g id="edge12" class="edge">
-<title>Node0x600001e6c3c0:n&#45;&gt;Node0x600001e6ef70:n</title>
+<title>Node0x6000007184b0:n&#45;&gt;Node0x60000071c120:n</title>
 <path fill="none" stroke="red" d="M1460,-34C1472,-34 1477.25,-34 1485.88,-34"/>
 <polygon fill="red" stroke="red" points="1486,-37.5 1496,-34 1486,-30.5 1486,-37.5"/>
 </g>
-<!-- Node0x600001e70bd0 -->
+<!-- Node0x60000071c660 -->
 <g id="node14" class="node">
-<title>Node0x600001e70bd0</title>
-<polygon fill="none" stroke="black" points="1620,-9 1620,-77 1707,-77 1707,-9 1620,-9"/>
-<text text-anchor="middle" x="1663.5" y="-66.6" font-family="Times,serif" font-size="8.00">word: niece</text>
-<polyline fill="none" stroke="black" points="1620,-60 1707,-60 "/>
-<text text-anchor="middle" x="1663.5" y="-49.6" font-family="Times,serif" font-size="8.00">size: 1</text>
-<polyline fill="none" stroke="black" points="1620,-43 1707,-43 "/>
-<text text-anchor="middle" x="1663.5" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e64d80</text>
-<polyline fill="none" stroke="black" points="1620,-26 1707,-26 "/>
-<text text-anchor="middle" x="1663.5" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e6ef70</text>
+<title>Node0x60000071c660</title>
+<polygon fill="none" stroke="black" points="1620,-9 1620,-77 1708,-77 1708,-9 1620,-9"/>
+<text text-anchor="middle" x="1664" y="-66.6" font-family="Times,serif" font-size="8.00">word: niece</text>
+<polyline fill="none" stroke="black" points="1620,-60 1708,-60 "/>
+<text text-anchor="middle" x="1664" y="-49.6" font-family="Times,serif" font-size="8.00">size: 1</text>
+<polyline fill="none" stroke="black" points="1620,-43 1708,-43 "/>
+<text text-anchor="middle" x="1664" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x6000007086f0</text>
+<polyline fill="none" stroke="black" points="1620,-26 1708,-26 "/>
+<text text-anchor="middle" x="1664" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x60000071c120</text>
 </g>
-<!-- Node0x600001e6ef70&#45;&gt;Node0x600001e70bd0 -->
+<!-- Node0x60000071c120&#45;&gt;Node0x60000071c660 -->
 <g id="edge13" class="edge">
-<title>Node0x600001e6ef70:n&#45;&gt;Node0x600001e70bd0:n</title>
+<title>Node0x60000071c120:n&#45;&gt;Node0x60000071c660:n</title>
 <path fill="none" stroke="red" d="M1584,-34C1596,-34 1601.25,-34 1609.88,-34"/>
 <polygon fill="red" stroke="red" points="1610,-37.5 1620,-34 1610,-30.5 1610,-37.5"/>
 </g>
-<!-- Node0x600001e64d80 -->
+<!-- Node0x6000007086f0 -->
 <g id="node15" class="node">
-<title>Node0x600001e64d80</title>
-<polygon fill="none" stroke="black" points="1743,-9 1743,-77 1831,-77 1831,-9 1743,-9"/>
-<text text-anchor="middle" x="1787" y="-66.6" font-family="Times,serif" font-size="8.00">word: Eve</text>
-<polyline fill="none" stroke="black" points="1743,-60 1831,-60 "/>
-<text text-anchor="middle" x="1787" y="-49.6" font-family="Times,serif" font-size="8.00">size: 2</text>
-<polyline fill="none" stroke="black" points="1743,-43 1831,-43 "/>
-<text text-anchor="middle" x="1787" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e651d0</text>
-<polyline fill="none" stroke="black" points="1743,-26 1831,-26 "/>
-<text text-anchor="middle" x="1787" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e70bd0</text>
+<title>Node0x6000007086f0</title>
+<polygon fill="none" stroke="black" points="1744,-9 1744,-77 1832,-77 1832,-9 1744,-9"/>
+<text text-anchor="middle" x="1788" y="-66.6" font-family="Times,serif" font-size="8.00">word: Eve</text>
+<polyline fill="none" stroke="black" points="1744,-60 1832,-60 "/>
+<text text-anchor="middle" x="1788" y="-49.6" font-family="Times,serif" font-size="8.00">size: 2</text>
+<polyline fill="none" stroke="black" points="1744,-43 1832,-43 "/>
+<text text-anchor="middle" x="1788" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600000708b40</text>
+<polyline fill="none" stroke="black" points="1744,-26 1832,-26 "/>
+<text text-anchor="middle" x="1788" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x60000071c660</text>
 </g>
-<!-- Node0x600001e70bd0&#45;&gt;Node0x600001e64d80 -->
+<!-- Node0x60000071c660&#45;&gt;Node0x6000007086f0 -->
 <g id="edge14" class="edge">
-<title>Node0x600001e70bd0:n&#45;&gt;Node0x600001e64d80:n</title>
-<path fill="none" stroke="red" d="M1707,-34C1719,-34 1724.25,-34 1732.88,-34"/>
-<polygon fill="red" stroke="red" points="1733,-37.5 1743,-34 1733,-30.5 1733,-37.5"/>
+<title>Node0x60000071c660:n&#45;&gt;Node0x6000007086f0:n</title>
+<path fill="none" stroke="red" d="M1708,-34C1720,-34 1725.25,-34 1733.88,-34"/>
+<polygon fill="red" stroke="red" points="1734,-37.5 1744,-34 1734,-30.5 1734,-37.5"/>
 </g>
-<!-- Node0x600001e651d0 -->
+<!-- Node0x600000708b40 -->
 <g id="node16" class="node">
-<title>Node0x600001e651d0</title>
-<polygon fill="none" stroke="black" points="1867,-9 1867,-77 1955,-77 1955,-9 1867,-9"/>
-<text text-anchor="middle" x="1911" y="-66.6" font-family="Times,serif" font-size="8.00">word: Shake</text>
-<polyline fill="none" stroke="black" points="1867,-60 1955,-60 "/>
-<text text-anchor="middle" x="1911" y="-49.6" font-family="Times,serif" font-size="8.00">size: 1</text>
-<polyline fill="none" stroke="black" points="1867,-43 1955,-43 "/>
-<text text-anchor="middle" x="1911" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e67180</text>
-<polyline fill="none" stroke="black" points="1867,-26 1955,-26 "/>
-<text text-anchor="middle" x="1911" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e64d80</text>
+<title>Node0x600000708b40</title>
+<polygon fill="none" stroke="black" points="1868,-9 1868,-77 1955,-77 1955,-9 1868,-9"/>
+<text text-anchor="middle" x="1911.5" y="-66.6" font-family="Times,serif" font-size="8.00">word: Shake</text>
+<polyline fill="none" stroke="black" points="1868,-60 1955,-60 "/>
+<text text-anchor="middle" x="1911.5" y="-49.6" font-family="Times,serif" font-size="8.00">size: 1</text>
+<polyline fill="none" stroke="black" points="1868,-43 1955,-43 "/>
+<text text-anchor="middle" x="1911.5" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600000704ff0</text>
+<polyline fill="none" stroke="black" points="1868,-26 1955,-26 "/>
+<text text-anchor="middle" x="1911.5" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x6000007086f0</text>
 </g>
-<!-- Node0x600001e64d80&#45;&gt;Node0x600001e651d0 -->
+<!-- Node0x6000007086f0&#45;&gt;Node0x600000708b40 -->
 <g id="edge15" class="edge">
-<title>Node0x600001e64d80:n&#45;&gt;Node0x600001e651d0:n</title>
-<path fill="none" stroke="red" d="M1831,-34C1843,-34 1848.25,-34 1856.88,-34"/>
-<polygon fill="red" stroke="red" points="1857,-37.5 1867,-34 1857,-30.5 1857,-37.5"/>
+<title>Node0x6000007086f0:n&#45;&gt;Node0x600000708b40:n</title>
+<path fill="none" stroke="red" d="M1832,-34C1844,-34 1849.25,-34 1857.88,-34"/>
+<polygon fill="red" stroke="red" points="1858,-37.5 1868,-34 1858,-30.5 1858,-37.5"/>
 </g>
-<!-- Node0x600001e67180 -->
+<!-- Node0x600000704ff0 -->
 <g id="node17" class="node">
-<title>Node0x600001e67180</title>
+<title>Node0x600000704ff0</title>
 <polygon fill="none" stroke="black" points="1991,-9 1991,-77 2079,-77 2079,-9 1991,-9"/>
 <text text-anchor="middle" x="2035" y="-66.6" font-family="Times,serif" font-size="8.00">word: Under</text>
 <polyline fill="none" stroke="black" points="1991,-60 2079,-60 "/>
 <text text-anchor="middle" x="2035" y="-49.6" font-family="Times,serif" font-size="8.00">size: 2</text>
 <polyline fill="none" stroke="black" points="1991,-43 2079,-43 "/>
-<text text-anchor="middle" x="2035" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e67300</text>
+<text text-anchor="middle" x="2035" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600000705170</text>
 <polyline fill="none" stroke="black" points="1991,-26 2079,-26 "/>
-<text text-anchor="middle" x="2035" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e651d0</text>
+<text text-anchor="middle" x="2035" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600000708b40</text>
 </g>
-<!-- Node0x600001e651d0&#45;&gt;Node0x600001e67180 -->
+<!-- Node0x600000708b40&#45;&gt;Node0x600000704ff0 -->
 <g id="edge16" class="edge">
-<title>Node0x600001e651d0:n&#45;&gt;Node0x600001e67180:n</title>
+<title>Node0x600000708b40:n&#45;&gt;Node0x600000704ff0:n</title>
 <path fill="none" stroke="red" d="M1955,-34C1967,-34 1972.25,-34 1980.88,-34"/>
 <polygon fill="red" stroke="red" points="1981,-37.5 1991,-34 1981,-30.5 1981,-37.5"/>
 </g>
-<!-- Node0x600001e67300 -->
+<!-- Node0x600000705170 -->
 <g id="node18" class="node">
-<title>Node0x600001e67300</title>
-<polygon fill="none" stroke="black" points="2115,-9 2115,-77 2203,-77 2203,-9 2115,-9"/>
-<text text-anchor="middle" x="2159" y="-66.6" font-family="Times,serif" font-size="8.00">word: rous</text>
-<polyline fill="none" stroke="black" points="2115,-60 2203,-60 "/>
-<text text-anchor="middle" x="2159" y="-49.6" font-family="Times,serif" font-size="8.00">size: 1</text>
-<polyline fill="none" stroke="black" points="2115,-43 2203,-43 "/>
-<text text-anchor="middle" x="2159" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e67420</text>
-<polyline fill="none" stroke="black" points="2115,-26 2203,-26 "/>
-<text text-anchor="middle" x="2159" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e67180</text>
+<title>Node0x600000705170</title>
+<polygon fill="none" stroke="black" points="2115,-9 2115,-77 2202,-77 2202,-9 2115,-9"/>
+<text text-anchor="middle" x="2158.5" y="-66.6" font-family="Times,serif" font-size="8.00">word: rous</text>
+<polyline fill="none" stroke="black" points="2115,-60 2202,-60 "/>
+<text text-anchor="middle" x="2158.5" y="-49.6" font-family="Times,serif" font-size="8.00">size: 1</text>
+<polyline fill="none" stroke="black" points="2115,-43 2202,-43 "/>
+<text text-anchor="middle" x="2158.5" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600000705290</text>
+<polyline fill="none" stroke="black" points="2115,-26 2202,-26 "/>
+<text text-anchor="middle" x="2158.5" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600000704ff0</text>
 </g>
-<!-- Node0x600001e67180&#45;&gt;Node0x600001e67300 -->
+<!-- Node0x600000704ff0&#45;&gt;Node0x600000705170 -->
 <g id="edge17" class="edge">
-<title>Node0x600001e67180:n&#45;&gt;Node0x600001e67300:n</title>
+<title>Node0x600000704ff0:n&#45;&gt;Node0x600000705170:n</title>
 <path fill="none" stroke="red" d="M2079,-34C2091,-34 2096.25,-34 2104.88,-34"/>
 <polygon fill="red" stroke="red" points="2105,-37.5 2115,-34 2105,-30.5 2105,-37.5"/>
 </g>
-<!-- Node0x600001e67420 -->
+<!-- Node0x600000705290 -->
 <g id="node19" class="node">
-<title>Node0x600001e67420</title>
-<polygon fill="none" stroke="black" points="2239,-9 2239,-77 2327,-77 2327,-9 2239,-9"/>
-<text text-anchor="middle" x="2283" y="-66.6" font-family="Times,serif" font-size="8.00">word: visage</text>
-<polyline fill="none" stroke="black" points="2239,-60 2327,-60 "/>
-<text text-anchor="middle" x="2283" y="-49.6" font-family="Times,serif" font-size="8.00">size: 1</text>
-<polyline fill="none" stroke="black" points="2239,-43 2327,-43 "/>
-<text text-anchor="middle" x="2283" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e67db0</text>
-<polyline fill="none" stroke="black" points="2239,-26 2327,-26 "/>
-<text text-anchor="middle" x="2283" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e67300</text>
+<title>Node0x600000705290</title>
+<polygon fill="none" stroke="black" points="2238,-9 2238,-77 2326,-77 2326,-9 2238,-9"/>
+<text text-anchor="middle" x="2282" y="-66.6" font-family="Times,serif" font-size="8.00">word: visage</text>
+<polyline fill="none" stroke="black" points="2238,-60 2326,-60 "/>
+<text text-anchor="middle" x="2282" y="-49.6" font-family="Times,serif" font-size="8.00">size: 1</text>
+<polyline fill="none" stroke="black" points="2238,-43 2326,-43 "/>
+<text text-anchor="middle" x="2282" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600000705c20</text>
+<polyline fill="none" stroke="black" points="2238,-26 2326,-26 "/>
+<text text-anchor="middle" x="2282" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600000705170</text>
 </g>
-<!-- Node0x600001e67300&#45;&gt;Node0x600001e67420 -->
+<!-- Node0x600000705170&#45;&gt;Node0x600000705290 -->
 <g id="edge18" class="edge">
-<title>Node0x600001e67300:n&#45;&gt;Node0x600001e67420:n</title>
-<path fill="none" stroke="red" d="M2203,-34C2215,-34 2220.25,-34 2228.88,-34"/>
-<polygon fill="red" stroke="red" points="2229,-37.5 2239,-34 2229,-30.5 2229,-37.5"/>
+<title>Node0x600000705170:n&#45;&gt;Node0x600000705290:n</title>
+<path fill="none" stroke="red" d="M2202,-34C2214,-34 2219.25,-34 2227.88,-34"/>
+<polygon fill="red" stroke="red" points="2228,-37.5 2238,-34 2228,-30.5 2228,-37.5"/>
 </g>
-<!-- Node0x600001e67db0 -->
+<!-- Node0x600000705c20 -->
 <g id="node20" class="node">
-<title>Node0x600001e67db0</title>
-<polygon fill="none" stroke="black" points="2363,-9 2363,-77 2451,-77 2451,-9 2363,-9"/>
-<text text-anchor="middle" x="2407" y="-66.6" font-family="Times,serif" font-size="8.00">word: shape</text>
-<polyline fill="none" stroke="black" points="2363,-60 2451,-60 "/>
-<text text-anchor="middle" x="2407" y="-49.6" font-family="Times,serif" font-size="8.00">size: 5</text>
-<polyline fill="none" stroke="black" points="2363,-43 2451,-43 "/>
-<text text-anchor="middle" x="2407" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e67f60</text>
-<polyline fill="none" stroke="black" points="2363,-26 2451,-26 "/>
-<text text-anchor="middle" x="2407" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e67420</text>
+<title>Node0x600000705c20</title>
+<polygon fill="none" stroke="black" points="2362,-9 2362,-77 2450,-77 2450,-9 2362,-9"/>
+<text text-anchor="middle" x="2406" y="-66.6" font-family="Times,serif" font-size="8.00">word: shape</text>
+<polyline fill="none" stroke="black" points="2362,-60 2450,-60 "/>
+<text text-anchor="middle" x="2406" y="-49.6" font-family="Times,serif" font-size="8.00">size: 5</text>
+<polyline fill="none" stroke="black" points="2362,-43 2450,-43 "/>
+<text text-anchor="middle" x="2406" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x60000071d2c0</text>
+<polyline fill="none" stroke="black" points="2362,-26 2450,-26 "/>
+<text text-anchor="middle" x="2406" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600000705290</text>
 </g>
-<!-- Node0x600001e67420&#45;&gt;Node0x600001e67db0 -->
+<!-- Node0x600000705290&#45;&gt;Node0x600000705c20 -->
 <g id="edge19" class="edge">
-<title>Node0x600001e67420:n&#45;&gt;Node0x600001e67db0:n</title>
-<path fill="none" stroke="red" d="M2327,-34C2339,-34 2344.25,-34 2352.88,-34"/>
-<polygon fill="red" stroke="red" points="2353,-37.5 2363,-34 2353,-30.5 2353,-37.5"/>
+<title>Node0x600000705290:n&#45;&gt;Node0x600000705c20:n</title>
+<path fill="none" stroke="red" d="M2326,-34C2338,-34 2343.25,-34 2351.88,-34"/>
+<polygon fill="red" stroke="red" points="2352,-37.5 2362,-34 2352,-30.5 2352,-37.5"/>
 </g>
-<!-- Node0x600001e67f60 -->
+<!-- Node0x60000071d2c0 -->
 <g id="node21" class="node">
-<title>Node0x600001e67f60</title>
-<polygon fill="none" stroke="black" points="2487,-9 2487,-77 2575,-77 2575,-9 2487,-9"/>
-<text text-anchor="middle" x="2531" y="-66.6" font-family="Times,serif" font-size="8.00">word: noses</text>
-<polyline fill="none" stroke="black" points="2487,-60 2575,-60 "/>
-<text text-anchor="middle" x="2531" y="-49.6" font-family="Times,serif" font-size="8.00">size: 1</text>
-<polyline fill="none" stroke="black" points="2487,-43 2575,-43 "/>
-<text text-anchor="middle" x="2531" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e74480</text>
-<polyline fill="none" stroke="black" points="2487,-26 2575,-26 "/>
-<text text-anchor="middle" x="2531" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e67db0</text>
+<title>Node0x60000071d2c0</title>
+<polygon fill="none" stroke="black" points="2486,-9 2486,-77 2574,-77 2574,-9 2486,-9"/>
+<text text-anchor="middle" x="2530" y="-66.6" font-family="Times,serif" font-size="8.00">word: noses</text>
+<polyline fill="none" stroke="black" points="2486,-60 2574,-60 "/>
+<text text-anchor="middle" x="2530" y="-49.6" font-family="Times,serif" font-size="8.00">size: 1</text>
+<polyline fill="none" stroke="black" points="2486,-43 2574,-43 "/>
+<text text-anchor="middle" x="2530" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600000709e30</text>
+<polyline fill="none" stroke="black" points="2486,-26 2574,-26 "/>
+<text text-anchor="middle" x="2530" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600000705c20</text>
 </g>
-<!-- Node0x600001e67db0&#45;&gt;Node0x600001e67f60 -->
+<!-- Node0x600000705c20&#45;&gt;Node0x60000071d2c0 -->
 <g id="edge20" class="edge">
-<title>Node0x600001e67db0:n&#45;&gt;Node0x600001e67f60:n</title>
-<path fill="none" stroke="red" d="M2451,-34C2463,-34 2468.25,-34 2476.88,-34"/>
-<polygon fill="red" stroke="red" points="2477,-37.5 2487,-34 2477,-30.5 2477,-37.5"/>
+<title>Node0x600000705c20:n&#45;&gt;Node0x60000071d2c0:n</title>
+<path fill="none" stroke="red" d="M2450,-34C2462,-34 2467.25,-34 2475.88,-34"/>
+<polygon fill="red" stroke="red" points="2476,-37.5 2486,-34 2476,-30.5 2476,-37.5"/>
 </g>
-<!-- Node0x600001e74480 -->
+<!-- Node0x600000709e30 -->
 <g id="node22" class="node">
-<title>Node0x600001e74480</title>
-<polygon fill="none" stroke="black" points="2611,-9 2611,-77 2698,-77 2698,-9 2611,-9"/>
-<text text-anchor="middle" x="2654.5" y="-66.6" font-family="Times,serif" font-size="8.00">word: lazy</text>
-<polyline fill="none" stroke="black" points="2611,-60 2698,-60 "/>
-<text text-anchor="middle" x="2654.5" y="-49.6" font-family="Times,serif" font-size="8.00">size: 2</text>
-<polyline fill="none" stroke="black" points="2611,-43 2698,-43 "/>
-<text text-anchor="middle" x="2654.5" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e756e0</text>
-<polyline fill="none" stroke="black" points="2611,-26 2698,-26 "/>
-<text text-anchor="middle" x="2654.5" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e67f60</text>
+<title>Node0x600000709e30</title>
+<polygon fill="none" stroke="black" points="2610,-9 2610,-77 2698,-77 2698,-9 2610,-9"/>
+<text text-anchor="middle" x="2654" y="-66.6" font-family="Times,serif" font-size="8.00">word: lazy</text>
+<polyline fill="none" stroke="black" points="2610,-60 2698,-60 "/>
+<text text-anchor="middle" x="2654" y="-49.6" font-family="Times,serif" font-size="8.00">size: 2</text>
+<polyline fill="none" stroke="black" points="2610,-43 2698,-43 "/>
+<text text-anchor="middle" x="2654" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x60000071e790</text>
+<polyline fill="none" stroke="black" points="2610,-26 2698,-26 "/>
+<text text-anchor="middle" x="2654" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x60000071d2c0</text>
 </g>
-<!-- Node0x600001e67f60&#45;&gt;Node0x600001e74480 -->
+<!-- Node0x60000071d2c0&#45;&gt;Node0x600000709e30 -->
 <g id="edge21" class="edge">
-<title>Node0x600001e67f60:n&#45;&gt;Node0x600001e74480:n</title>
-<path fill="none" stroke="red" d="M2575,-34C2587,-34 2592.25,-34 2600.88,-34"/>
-<polygon fill="red" stroke="red" points="2601,-37.5 2611,-34 2601,-30.5 2601,-37.5"/>
+<title>Node0x60000071d2c0:n&#45;&gt;Node0x600000709e30:n</title>
+<path fill="none" stroke="red" d="M2574,-34C2586,-34 2591.25,-34 2599.88,-34"/>
+<polygon fill="red" stroke="red" points="2600,-37.5 2610,-34 2600,-30.5 2600,-37.5"/>
 </g>
-<!-- Node0x600001e756e0 -->
+<!-- Node0x60000071e790 -->
 <g id="node23" class="node">
-<title>Node0x600001e756e0</title>
+<title>Node0x60000071e790</title>
 <polygon fill="none" stroke="black" points="2734,-9 2734,-77 2822,-77 2822,-9 2734,-9"/>
 <text text-anchor="middle" x="2778" y="-66.6" font-family="Times,serif" font-size="8.00">word: despised</text>
 <polyline fill="none" stroke="black" points="2734,-60 2822,-60 "/>
 <text text-anchor="middle" x="2778" y="-49.6" font-family="Times,serif" font-size="8.00">size: 1</text>
 <polyline fill="none" stroke="black" points="2734,-43 2822,-43 "/>
-<text text-anchor="middle" x="2778" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e761c0</text>
+<text text-anchor="middle" x="2778" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x60000071f270</text>
 <polyline fill="none" stroke="black" points="2734,-26 2822,-26 "/>
-<text text-anchor="middle" x="2778" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e74480</text>
+<text text-anchor="middle" x="2778" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600000709e30</text>
 </g>
-<!-- Node0x600001e74480&#45;&gt;Node0x600001e756e0 -->
+<!-- Node0x600000709e30&#45;&gt;Node0x60000071e790 -->
 <g id="edge22" class="edge">
-<title>Node0x600001e74480:n&#45;&gt;Node0x600001e756e0:n</title>
+<title>Node0x600000709e30:n&#45;&gt;Node0x60000071e790:n</title>
 <path fill="none" stroke="red" d="M2698,-34C2710,-34 2715.25,-34 2723.88,-34"/>
 <polygon fill="red" stroke="red" points="2724,-37.5 2734,-34 2724,-30.5 2724,-37.5"/>
 </g>
-<!-- Node0x600001e761c0 -->
+<!-- Node0x60000071f270 -->
 <g id="node24" class="node">
-<title>Node0x600001e761c0</title>
+<title>Node0x60000071f270</title>
 <polygon fill="none" stroke="black" points="2858,-9 2858,-77 2946,-77 2946,-9 2858,-9"/>
 <text text-anchor="middle" x="2902" y="-66.6" font-family="Times,serif" font-size="8.00">word: deny</text>
 <polyline fill="none" stroke="black" points="2858,-60 2946,-60 "/>
 <text text-anchor="middle" x="2902" y="-49.6" font-family="Times,serif" font-size="8.00">size: 3</text>
 <polyline fill="none" stroke="black" points="2858,-43 2946,-43 "/>
-<text text-anchor="middle" x="2902" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e6fcf0</text>
+<text text-anchor="middle" x="2902" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x6000007016e0</text>
 <polyline fill="none" stroke="black" points="2858,-26 2946,-26 "/>
-<text text-anchor="middle" x="2902" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e756e0</text>
+<text text-anchor="middle" x="2902" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x60000071e790</text>
 </g>
-<!-- Node0x600001e756e0&#45;&gt;Node0x600001e761c0 -->
+<!-- Node0x60000071e790&#45;&gt;Node0x60000071f270 -->
 <g id="edge23" class="edge">
-<title>Node0x600001e756e0:n&#45;&gt;Node0x600001e761c0:n</title>
+<title>Node0x60000071e790:n&#45;&gt;Node0x60000071f270:n</title>
 <path fill="none" stroke="red" d="M2822,-34C2834,-34 2839.25,-34 2847.88,-34"/>
 <polygon fill="red" stroke="red" points="2848,-37.5 2858,-34 2848,-30.5 2848,-37.5"/>
 </g>
-<!-- Node0x600001e6fcf0 -->
+<!-- Node0x6000007016e0 -->
 <g id="node25" class="node">
-<title>Node0x600001e6fcf0</title>
-<polygon fill="none" stroke="black" points="2982,-9 2982,-77 3070,-77 3070,-9 2982,-9"/>
-<text text-anchor="middle" x="3026" y="-66.6" font-family="Times,serif" font-size="8.00">word: orchard</text>
-<polyline fill="none" stroke="black" points="2982,-60 3070,-60 "/>
-<text text-anchor="middle" x="3026" y="-49.6" font-family="Times,serif" font-size="8.00">size: 6</text>
-<polyline fill="none" stroke="black" points="2982,-43 3070,-43 "/>
-<text text-anchor="middle" x="3026" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e7d3b0</text>
-<polyline fill="none" stroke="black" points="2982,-26 3070,-26 "/>
-<text text-anchor="middle" x="3026" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e761c0</text>
+<title>Node0x6000007016e0</title>
+<polygon fill="none" stroke="black" points="2982,-9 2982,-77 3069,-77 3069,-9 2982,-9"/>
+<text text-anchor="middle" x="3025.5" y="-66.6" font-family="Times,serif" font-size="8.00">word: orchard</text>
+<polyline fill="none" stroke="black" points="2982,-60 3069,-60 "/>
+<text text-anchor="middle" x="3025.5" y="-49.6" font-family="Times,serif" font-size="8.00">size: 6</text>
+<polyline fill="none" stroke="black" points="2982,-43 3069,-43 "/>
+<text text-anchor="middle" x="3025.5" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600000702d90</text>
+<polyline fill="none" stroke="black" points="2982,-26 3069,-26 "/>
+<text text-anchor="middle" x="3025.5" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x60000071f270</text>
 </g>
-<!-- Node0x600001e761c0&#45;&gt;Node0x600001e6fcf0 -->
+<!-- Node0x60000071f270&#45;&gt;Node0x6000007016e0 -->
 <g id="edge24" class="edge">
-<title>Node0x600001e761c0:n&#45;&gt;Node0x600001e6fcf0:n</title>
+<title>Node0x60000071f270:n&#45;&gt;Node0x6000007016e0:n</title>
 <path fill="none" stroke="red" d="M2946,-34C2958,-34 2963.25,-34 2971.88,-34"/>
 <polygon fill="red" stroke="red" points="2972,-37.5 2982,-34 2972,-30.5 2972,-37.5"/>
 </g>
-<!-- Node0x600001e7d3b0 -->
+<!-- Node0x600000702d90 -->
 <g id="node26" class="node">
-<title>Node0x600001e7d3b0</title>
-<polygon fill="none" stroke="black" points="3106,-9 3106,-77 3193,-77 3193,-9 3106,-9"/>
-<text text-anchor="middle" x="3149.5" y="-66.6" font-family="Times,serif" font-size="8.00">word: refuse</text>
-<polyline fill="none" stroke="black" points="3106,-60 3193,-60 "/>
-<text text-anchor="middle" x="3149.5" y="-49.6" font-family="Times,serif" font-size="8.00">size: 1</text>
-<polyline fill="none" stroke="black" points="3106,-43 3193,-43 "/>
-<text text-anchor="middle" x="3149.5" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e40630</text>
-<polyline fill="none" stroke="black" points="3106,-26 3193,-26 "/>
-<text text-anchor="middle" x="3149.5" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e6fcf0</text>
+<title>Node0x600000702d90</title>
+<polygon fill="none" stroke="black" points="3105,-9 3105,-77 3193,-77 3193,-9 3105,-9"/>
+<text text-anchor="middle" x="3149" y="-66.6" font-family="Times,serif" font-size="8.00">word: refuse</text>
+<polyline fill="none" stroke="black" points="3105,-60 3193,-60 "/>
+<text text-anchor="middle" x="3149" y="-49.6" font-family="Times,serif" font-size="8.00">size: 1</text>
+<polyline fill="none" stroke="black" points="3105,-43 3193,-43 "/>
+<text text-anchor="middle" x="3149" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600000732010</text>
+<polyline fill="none" stroke="black" points="3105,-26 3193,-26 "/>
+<text text-anchor="middle" x="3149" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x6000007016e0</text>
 </g>
-<!-- Node0x600001e6fcf0&#45;&gt;Node0x600001e7d3b0 -->
+<!-- Node0x6000007016e0&#45;&gt;Node0x600000702d90 -->
 <g id="edge25" class="edge">
-<title>Node0x600001e6fcf0:n&#45;&gt;Node0x600001e7d3b0:n</title>
-<path fill="none" stroke="red" d="M3070,-34C3082,-34 3087.25,-34 3095.88,-34"/>
-<polygon fill="red" stroke="red" points="3096,-37.5 3106,-34 3096,-30.5 3096,-37.5"/>
+<title>Node0x6000007016e0:n&#45;&gt;Node0x600000702d90:n</title>
+<path fill="none" stroke="red" d="M3069,-34C3081,-34 3086.25,-34 3094.88,-34"/>
+<polygon fill="red" stroke="red" points="3095,-37.5 3105,-34 3095,-30.5 3095,-37.5"/>
 </g>
-<!-- Node0x600001e40630 -->
+<!-- Node0x600000732010 -->
 <g id="node27" class="node">
-<title>Node0x600001e40630</title>
+<title>Node0x600000732010</title>
 <polygon fill="none" stroke="black" points="3229,-9 3229,-77 3317,-77 3317,-9 3229,-9"/>
 <text text-anchor="middle" x="3273" y="-66.6" font-family="Times,serif" font-size="8.00">word: distempered</text>
 <polyline fill="none" stroke="black" points="3229,-60 3317,-60 "/>
 <text text-anchor="middle" x="3273" y="-49.6" font-family="Times,serif" font-size="8.00">size: 1</text>
 <polyline fill="none" stroke="black" points="3229,-43 3317,-43 "/>
-<text text-anchor="middle" x="3273" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e40db0</text>
+<text text-anchor="middle" x="3273" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600000732790</text>
 <polyline fill="none" stroke="black" points="3229,-26 3317,-26 "/>
-<text text-anchor="middle" x="3273" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e7d3b0</text>
+<text text-anchor="middle" x="3273" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600000702d90</text>
 </g>
-<!-- Node0x600001e7d3b0&#45;&gt;Node0x600001e40630 -->
+<!-- Node0x600000702d90&#45;&gt;Node0x600000732010 -->
 <g id="edge26" class="edge">
-<title>Node0x600001e7d3b0:n&#45;&gt;Node0x600001e40630:n</title>
+<title>Node0x600000702d90:n&#45;&gt;Node0x600000732010:n</title>
 <path fill="none" stroke="red" d="M3193,-34C3205,-34 3210.25,-34 3218.88,-34"/>
 <polygon fill="red" stroke="red" points="3219,-37.5 3229,-34 3219,-30.5 3219,-37.5"/>
 </g>
-<!-- Node0x600001e40db0 -->
+<!-- Node0x600000732790 -->
 <g id="node28" class="node">
-<title>Node0x600001e40db0</title>
+<title>Node0x600000732790</title>
 <polygon fill="none" stroke="black" points="3353,-9 3353,-77 3441,-77 3441,-9 3353,-9"/>
 <text text-anchor="middle" x="3397" y="-66.6" font-family="Times,serif" font-size="8.00">word: truly</text>
 <polyline fill="none" stroke="black" points="3353,-60 3441,-60 "/>
 <text text-anchor="middle" x="3397" y="-49.6" font-family="Times,serif" font-size="8.00">size: 3</text>
 <polyline fill="none" stroke="black" points="3353,-43 3441,-43 "/>
-<text text-anchor="middle" x="3397" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e42be0</text>
+<text text-anchor="middle" x="3397" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x6000007345d0</text>
 <polyline fill="none" stroke="black" points="3353,-26 3441,-26 "/>
-<text text-anchor="middle" x="3397" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e40630</text>
+<text text-anchor="middle" x="3397" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600000732010</text>
 </g>
-<!-- Node0x600001e40630&#45;&gt;Node0x600001e40db0 -->
+<!-- Node0x600000732010&#45;&gt;Node0x600000732790 -->
 <g id="edge27" class="edge">
-<title>Node0x600001e40630:n&#45;&gt;Node0x600001e40db0:n</title>
+<title>Node0x600000732010:n&#45;&gt;Node0x600000732790:n</title>
 <path fill="none" stroke="red" d="M3317,-34C3329,-34 3334.25,-34 3342.88,-34"/>
 <polygon fill="red" stroke="red" points="3343,-37.5 3353,-34 3343,-30.5 3343,-37.5"/>
 </g>
-<!-- Node0x600001e42be0 -->
+<!-- Node0x6000007345d0 -->
 <g id="node29" class="node">
-<title>Node0x600001e42be0</title>
+<title>Node0x6000007345d0</title>
 <polygon fill="none" stroke="black" points="3477,-9 3477,-77 3565,-77 3565,-9 3477,-9"/>
 <text text-anchor="middle" x="3521" y="-66.6" font-family="Times,serif" font-size="8.00">word: wide</text>
 <polyline fill="none" stroke="black" points="3477,-60 3565,-60 "/>
 <text text-anchor="middle" x="3521" y="-49.6" font-family="Times,serif" font-size="8.00">size: 3</text>
 <polyline fill="none" stroke="black" points="3477,-43 3565,-43 "/>
-<text text-anchor="middle" x="3521" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e43a50</text>
+<text text-anchor="middle" x="3521" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600000735440</text>
 <polyline fill="none" stroke="black" points="3477,-26 3565,-26 "/>
-<text text-anchor="middle" x="3521" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e40db0</text>
+<text text-anchor="middle" x="3521" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600000732790</text>
 </g>
-<!-- Node0x600001e40db0&#45;&gt;Node0x600001e42be0 -->
+<!-- Node0x600000732790&#45;&gt;Node0x6000007345d0 -->
 <g id="edge28" class="edge">
-<title>Node0x600001e40db0:n&#45;&gt;Node0x600001e42be0:n</title>
+<title>Node0x600000732790:n&#45;&gt;Node0x6000007345d0:n</title>
 <path fill="none" stroke="red" d="M3441,-34C3453,-34 3458.25,-34 3466.88,-34"/>
 <polygon fill="red" stroke="red" points="3467,-37.5 3477,-34 3467,-30.5 3467,-37.5"/>
 </g>
-<!-- Node0x600001e43a50 -->
+<!-- Node0x600000735440 -->
 <g id="node30" class="node">
-<title>Node0x600001e43a50</title>
+<title>Node0x600000735440</title>
 <polygon fill="none" stroke="black" points="3601,-9 3601,-77 3689,-77 3689,-9 3601,-9"/>
 <text text-anchor="middle" x="3645" y="-66.6" font-family="Times,serif" font-size="8.00">word: vexed</text>
 <polyline fill="none" stroke="black" points="3601,-60 3689,-60 "/>
 <text text-anchor="middle" x="3645" y="-49.6" font-family="Times,serif" font-size="8.00">size: 1</text>
 <polyline fill="none" stroke="black" points="3601,-43 3689,-43 "/>
-<text text-anchor="middle" x="3645" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e43c60</text>
+<text text-anchor="middle" x="3645" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600000735650</text>
 <polyline fill="none" stroke="black" points="3601,-26 3689,-26 "/>
-<text text-anchor="middle" x="3645" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e42be0</text>
+<text text-anchor="middle" x="3645" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x6000007345d0</text>
 </g>
-<!-- Node0x600001e42be0&#45;&gt;Node0x600001e43a50 -->
+<!-- Node0x6000007345d0&#45;&gt;Node0x600000735440 -->
 <g id="edge29" class="edge">
-<title>Node0x600001e42be0:n&#45;&gt;Node0x600001e43a50:n</title>
+<title>Node0x6000007345d0:n&#45;&gt;Node0x600000735440:n</title>
 <path fill="none" stroke="red" d="M3565,-34C3577,-34 3582.25,-34 3590.88,-34"/>
 <polygon fill="red" stroke="red" points="3591,-37.5 3601,-34 3591,-30.5 3591,-37.5"/>
 </g>
-<!-- Node0x600001e43c60 -->
+<!-- Node0x600000735650 -->
 <g id="node31" class="node">
-<title>Node0x600001e43c60</title>
+<title>Node0x600000735650</title>
 <polygon fill="none" stroke="black" points="3725,-9 3725,-77 3813,-77 3813,-9 3725,-9"/>
 <text text-anchor="middle" x="3769" y="-66.6" font-family="Times,serif" font-size="8.00">word: joyful</text>
 <polyline fill="none" stroke="black" points="3725,-60 3813,-60 "/>
 <text text-anchor="middle" x="3769" y="-49.6" font-family="Times,serif" font-size="8.00">size: 5</text>
 <polyline fill="none" stroke="black" points="3725,-43 3813,-43 "/>
-<text text-anchor="middle" x="3769" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e44120</text>
+<text text-anchor="middle" x="3769" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600000735b00</text>
 <polyline fill="none" stroke="black" points="3725,-26 3813,-26 "/>
-<text text-anchor="middle" x="3769" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e43a50</text>
+<text text-anchor="middle" x="3769" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600000735440</text>
 </g>
-<!-- Node0x600001e43a50&#45;&gt;Node0x600001e43c60 -->
+<!-- Node0x600000735440&#45;&gt;Node0x600000735650 -->
 <g id="edge30" class="edge">
-<title>Node0x600001e43a50:n&#45;&gt;Node0x600001e43c60:n</title>
+<title>Node0x600000735440:n&#45;&gt;Node0x600000735650:n</title>
 <path fill="none" stroke="red" d="M3689,-34C3701,-34 3706.25,-34 3714.88,-34"/>
 <polygon fill="red" stroke="red" points="3715,-37.5 3725,-34 3715,-30.5 3715,-37.5"/>
 </g>
-<!-- Node0x600001e44120 -->
+<!-- Node0x600000735b00 -->
 <g id="node32" class="node">
-<title>Node0x600001e44120</title>
+<title>Node0x600000735b00</title>
 <polygon fill="none" stroke="black" points="3849,-9 3849,-77 3937,-77 3937,-9 3849,-9"/>
 <text text-anchor="middle" x="3893" y="-66.6" font-family="Times,serif" font-size="8.00">word: knife</text>
 <polyline fill="none" stroke="black" points="3849,-60 3937,-60 "/>
 <text text-anchor="middle" x="3893" y="-49.6" font-family="Times,serif" font-size="8.00">size: 5</text>
 <polyline fill="none" stroke="black" points="3849,-43 3937,-43 "/>
-<text text-anchor="middle" x="3893" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e46040</text>
+<text text-anchor="middle" x="3893" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600000737a20</text>
 <polyline fill="none" stroke="black" points="3849,-26 3937,-26 "/>
-<text text-anchor="middle" x="3893" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e43c60</text>
+<text text-anchor="middle" x="3893" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600000735650</text>
 </g>
-<!-- Node0x600001e43c60&#45;&gt;Node0x600001e44120 -->
+<!-- Node0x600000735650&#45;&gt;Node0x600000735b00 -->
 <g id="edge31" class="edge">
-<title>Node0x600001e43c60:n&#45;&gt;Node0x600001e44120:n</title>
+<title>Node0x600000735650:n&#45;&gt;Node0x600000735b00:n</title>
 <path fill="none" stroke="red" d="M3813,-34C3825,-34 3830.25,-34 3838.88,-34"/>
 <polygon fill="red" stroke="red" points="3839,-37.5 3849,-34 3839,-30.5 3839,-37.5"/>
 </g>
-<!-- Node0x600001e46040 -->
+<!-- Node0x600000737a20 -->
 <g id="node33" class="node">
-<title>Node0x600001e46040</title>
+<title>Node0x600000737a20</title>
 <polygon fill="none" stroke="black" points="3973,-9 3973,-77 4061,-77 4061,-9 3973,-9"/>
 <text text-anchor="middle" x="4017" y="-66.6" font-family="Times,serif" font-size="8.00">word: quarrelling</text>
 <polyline fill="none" stroke="black" points="3973,-60 4061,-60 "/>
 <text text-anchor="middle" x="4017" y="-49.6" font-family="Times,serif" font-size="8.00">size: 2</text>
 <polyline fill="none" stroke="black" points="3973,-43 4061,-43 "/>
-<text text-anchor="middle" x="4017" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e47de0</text>
+<text text-anchor="middle" x="4017" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x6000007397d0</text>
 <polyline fill="none" stroke="black" points="3973,-26 4061,-26 "/>
-<text text-anchor="middle" x="4017" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e44120</text>
+<text text-anchor="middle" x="4017" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600000735b00</text>
 </g>
-<!-- Node0x600001e44120&#45;&gt;Node0x600001e46040 -->
+<!-- Node0x600000735b00&#45;&gt;Node0x600000737a20 -->
 <g id="edge32" class="edge">
-<title>Node0x600001e44120:n&#45;&gt;Node0x600001e46040:n</title>
+<title>Node0x600000735b00:n&#45;&gt;Node0x600000737a20:n</title>
 <path fill="none" stroke="red" d="M3937,-34C3949,-34 3954.25,-34 3962.88,-34"/>
 <polygon fill="red" stroke="red" points="3963,-37.5 3973,-34 3963,-30.5 3963,-37.5"/>
 </g>
-<!-- Node0x600001e47de0 -->
+<!-- Node0x6000007397d0 -->
 <g id="node34" class="node">
-<title>Node0x600001e47de0</title>
+<title>Node0x6000007397d0</title>
 <polygon fill="none" stroke="black" points="4097,-9 4097,-77 4185,-77 4185,-9 4097,-9"/>
 <text text-anchor="middle" x="4141" y="-66.6" font-family="Times,serif" font-size="8.00">word: offence</text>
 <polyline fill="none" stroke="black" points="4097,-60 4185,-60 "/>
 <text text-anchor="middle" x="4141" y="-49.6" font-family="Times,serif" font-size="8.00">size: 1</text>
 <polyline fill="none" stroke="black" points="4097,-43 4185,-43 "/>
-<text text-anchor="middle" x="4141" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e492f0</text>
+<text text-anchor="middle" x="4141" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x60000073acd0</text>
 <polyline fill="none" stroke="black" points="4097,-26 4185,-26 "/>
-<text text-anchor="middle" x="4141" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e46040</text>
+<text text-anchor="middle" x="4141" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600000737a20</text>
 </g>
-<!-- Node0x600001e46040&#45;&gt;Node0x600001e47de0 -->
+<!-- Node0x600000737a20&#45;&gt;Node0x6000007397d0 -->
 <g id="edge33" class="edge">
-<title>Node0x600001e46040:n&#45;&gt;Node0x600001e47de0:n</title>
+<title>Node0x600000737a20:n&#45;&gt;Node0x6000007397d0:n</title>
 <path fill="none" stroke="red" d="M4061,-34C4073,-34 4078.25,-34 4086.88,-34"/>
 <polygon fill="red" stroke="red" points="4087,-37.5 4097,-34 4087,-30.5 4087,-37.5"/>
 </g>
-<!-- Node0x600001e492f0 -->
+<!-- Node0x60000073acd0 -->
 <g id="node35" class="node">
-<title>Node0x600001e492f0</title>
+<title>Node0x60000073acd0</title>
 <polygon fill="none" stroke="black" points="4221,-9 4221,-77 4309,-77 4309,-9 4221,-9"/>
 <text text-anchor="middle" x="4265" y="-66.6" font-family="Times,serif" font-size="8.00">word: wolvish</text>
 <polyline fill="none" stroke="black" points="4221,-60 4309,-60 "/>
 <text text-anchor="middle" x="4265" y="-49.6" font-family="Times,serif" font-size="8.00">size: 1</text>
 <polyline fill="none" stroke="black" points="4221,-43 4309,-43 "/>
-<text text-anchor="middle" x="4265" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e4aeb0</text>
+<text text-anchor="middle" x="4265" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x60000073cf00</text>
 <polyline fill="none" stroke="black" points="4221,-26 4309,-26 "/>
-<text text-anchor="middle" x="4265" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e47de0</text>
+<text text-anchor="middle" x="4265" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x6000007397d0</text>
 </g>
-<!-- Node0x600001e47de0&#45;&gt;Node0x600001e492f0 -->
+<!-- Node0x6000007397d0&#45;&gt;Node0x60000073acd0 -->
 <g id="edge34" class="edge">
-<title>Node0x600001e47de0:n&#45;&gt;Node0x600001e492f0:n</title>
+<title>Node0x6000007397d0:n&#45;&gt;Node0x60000073acd0:n</title>
 <path fill="none" stroke="red" d="M4185,-34C4197,-34 4202.25,-34 4210.88,-34"/>
 <polygon fill="red" stroke="red" points="4211,-37.5 4221,-34 4211,-30.5 4211,-37.5"/>
 </g>
-<!-- Node0x600001e4aeb0 -->
+<!-- Node0x60000073cf00 -->
 <g id="node36" class="node">
-<title>Node0x600001e4aeb0</title>
-<polygon fill="none" stroke="black" points="4345,-9 4345,-77 4432,-77 4432,-9 4345,-9"/>
-<text text-anchor="middle" x="4388.5" y="-66.6" font-family="Times,serif" font-size="8.00">word: perjury</text>
-<polyline fill="none" stroke="black" points="4345,-60 4432,-60 "/>
-<text text-anchor="middle" x="4388.5" y="-49.6" font-family="Times,serif" font-size="8.00">size: 1</text>
-<polyline fill="none" stroke="black" points="4345,-43 4432,-43 "/>
-<text text-anchor="middle" x="4388.5" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e71fe0</text>
-<polyline fill="none" stroke="black" points="4345,-26 4432,-26 "/>
-<text text-anchor="middle" x="4388.5" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e492f0</text>
+<title>Node0x60000073cf00</title>
+<polygon fill="none" stroke="black" points="4345,-9 4345,-77 4433,-77 4433,-9 4345,-9"/>
+<text text-anchor="middle" x="4389" y="-66.6" font-family="Times,serif" font-size="8.00">word: perjury</text>
+<polyline fill="none" stroke="black" points="4345,-60 4433,-60 "/>
+<text text-anchor="middle" x="4389" y="-49.6" font-family="Times,serif" font-size="8.00">size: 1</text>
+<polyline fill="none" stroke="black" points="4345,-43 4433,-43 "/>
+<text text-anchor="middle" x="4389" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x60000073f2a0</text>
+<polyline fill="none" stroke="black" points="4345,-26 4433,-26 "/>
+<text text-anchor="middle" x="4389" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x60000073acd0</text>
 </g>
-<!-- Node0x600001e492f0&#45;&gt;Node0x600001e4aeb0 -->
+<!-- Node0x60000073acd0&#45;&gt;Node0x60000073cf00 -->
 <g id="edge35" class="edge">
-<title>Node0x600001e492f0:n&#45;&gt;Node0x600001e4aeb0:n</title>
+<title>Node0x60000073acd0:n&#45;&gt;Node0x60000073cf00:n</title>
 <path fill="none" stroke="red" d="M4309,-34C4321,-34 4326.25,-34 4334.88,-34"/>
 <polygon fill="red" stroke="red" points="4335,-37.5 4345,-34 4335,-30.5 4335,-37.5"/>
 </g>
-<!-- Node0x600001e71fe0 -->
+<!-- Node0x60000073f2a0 -->
 <g id="node37" class="node">
-<title>Node0x600001e71fe0</title>
-<polygon fill="none" stroke="black" points="4468,-9 4468,-77 4556,-77 4556,-9 4468,-9"/>
-<text text-anchor="middle" x="4512" y="-66.6" font-family="Times,serif" font-size="8.00">word: sickness</text>
-<polyline fill="none" stroke="black" points="4468,-60 4556,-60 "/>
-<text text-anchor="middle" x="4512" y="-49.6" font-family="Times,serif" font-size="8.00">size: 1</text>
-<polyline fill="none" stroke="black" points="4468,-43 4556,-43 "/>
-<text text-anchor="middle" x="4512" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e72130</text>
-<polyline fill="none" stroke="black" points="4468,-26 4556,-26 "/>
-<text text-anchor="middle" x="4512" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e4aeb0</text>
+<title>Node0x60000073f2a0</title>
+<polygon fill="none" stroke="black" points="4469,-9 4469,-77 4556,-77 4556,-9 4469,-9"/>
+<text text-anchor="middle" x="4512.5" y="-66.6" font-family="Times,serif" font-size="8.00">word: sickness</text>
+<polyline fill="none" stroke="black" points="4469,-60 4556,-60 "/>
+<text text-anchor="middle" x="4512.5" y="-49.6" font-family="Times,serif" font-size="8.00">size: 1</text>
+<polyline fill="none" stroke="black" points="4469,-43 4556,-43 "/>
+<text text-anchor="middle" x="4512.5" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x60000073f3f0</text>
+<polyline fill="none" stroke="black" points="4469,-26 4556,-26 "/>
+<text text-anchor="middle" x="4512.5" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x60000073cf00</text>
 </g>
-<!-- Node0x600001e4aeb0&#45;&gt;Node0x600001e71fe0 -->
+<!-- Node0x60000073cf00&#45;&gt;Node0x60000073f2a0 -->
 <g id="edge36" class="edge">
-<title>Node0x600001e4aeb0:n&#45;&gt;Node0x600001e71fe0:n</title>
-<path fill="none" stroke="red" d="M4432,-34C4444,-34 4449.25,-34 4457.88,-34"/>
-<polygon fill="red" stroke="red" points="4458,-37.5 4468,-34 4458,-30.5 4458,-37.5"/>
+<title>Node0x60000073cf00:n&#45;&gt;Node0x60000073f2a0:n</title>
+<path fill="none" stroke="red" d="M4433,-34C4445,-34 4450.25,-34 4458.88,-34"/>
+<polygon fill="red" stroke="red" points="4459,-37.5 4469,-34 4459,-30.5 4459,-37.5"/>
 </g>
-<!-- Node0x600001e72130 -->
+<!-- Node0x60000073f3f0 -->
 <g id="node38" class="node">
-<title>Node0x600001e72130</title>
+<title>Node0x60000073f3f0</title>
 <polygon fill="none" stroke="black" points="4592,-9 4592,-77 4679,-77 4679,-9 4592,-9"/>
 <text text-anchor="middle" x="4635.5" y="-66.6" font-family="Times,serif" font-size="8.00">word: itch</text>
 <polyline fill="none" stroke="black" points="4592,-60 4679,-60 "/>
 <text text-anchor="middle" x="4635.5" y="-49.6" font-family="Times,serif" font-size="8.00">size: 1</text>
 <polyline fill="none" stroke="black" points="4592,-43 4679,-43 "/>
-<text text-anchor="middle" x="4635.5" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e79020</text>
+<text text-anchor="middle" x="4635.5" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x6000007206c0</text>
 <polyline fill="none" stroke="black" points="4592,-26 4679,-26 "/>
-<text text-anchor="middle" x="4635.5" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e71fe0</text>
+<text text-anchor="middle" x="4635.5" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x60000073f2a0</text>
 </g>
-<!-- Node0x600001e71fe0&#45;&gt;Node0x600001e72130 -->
+<!-- Node0x60000073f2a0&#45;&gt;Node0x60000073f3f0 -->
 <g id="edge37" class="edge">
-<title>Node0x600001e71fe0:n&#45;&gt;Node0x600001e72130:n</title>
+<title>Node0x60000073f2a0:n&#45;&gt;Node0x60000073f3f0:n</title>
 <path fill="none" stroke="red" d="M4556,-34C4568,-34 4573.25,-34 4581.88,-34"/>
 <polygon fill="red" stroke="red" points="4582,-37.5 4592,-34 4582,-30.5 4582,-37.5"/>
 </g>
-<!-- Node0x600001e79020 -->
+<!-- Node0x6000007206c0 -->
 <g id="node39" class="node">
-<title>Node0x600001e79020</title>
-<polygon fill="none" stroke="black" points="4715,-9 4715,-77 4803,-77 4803,-9 4715,-9"/>
-<text text-anchor="middle" x="4759" y="-66.6" font-family="Times,serif" font-size="8.00">word: treacherous</text>
-<polyline fill="none" stroke="black" points="4715,-60 4803,-60 "/>
-<text text-anchor="middle" x="4759" y="-49.6" font-family="Times,serif" font-size="8.00">size: 1</text>
-<polyline fill="none" stroke="black" points="4715,-43 4803,-43 "/>
-<text text-anchor="middle" x="4759" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e73de0</text>
-<polyline fill="none" stroke="black" points="4715,-26 4803,-26 "/>
-<text text-anchor="middle" x="4759" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e72130</text>
+<title>Node0x6000007206c0</title>
+<polygon fill="none" stroke="black" points="4715,-9 4715,-77 4802,-77 4802,-9 4715,-9"/>
+<text text-anchor="middle" x="4758.5" y="-66.6" font-family="Times,serif" font-size="8.00">word: treacherous</text>
+<polyline fill="none" stroke="black" points="4715,-60 4802,-60 "/>
+<text text-anchor="middle" x="4758.5" y="-49.6" font-family="Times,serif" font-size="8.00">size: 1</text>
+<polyline fill="none" stroke="black" points="4715,-43 4802,-43 "/>
+<text text-anchor="middle" x="4758.5" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x60000070bde0</text>
+<polyline fill="none" stroke="black" points="4715,-26 4802,-26 "/>
+<text text-anchor="middle" x="4758.5" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x60000073f3f0</text>
 </g>
-<!-- Node0x600001e72130&#45;&gt;Node0x600001e79020 -->
+<!-- Node0x60000073f3f0&#45;&gt;Node0x6000007206c0 -->
 <g id="edge38" class="edge">
-<title>Node0x600001e72130:n&#45;&gt;Node0x600001e79020:n</title>
+<title>Node0x60000073f3f0:n&#45;&gt;Node0x6000007206c0:n</title>
 <path fill="none" stroke="red" d="M4679,-34C4691,-34 4696.25,-34 4704.88,-34"/>
 <polygon fill="red" stroke="red" points="4705,-37.5 4715,-34 4705,-30.5 4705,-37.5"/>
 </g>
-<!-- Node0x600001e73de0 -->
+<!-- Node0x60000070bde0 -->
 <g id="node40" class="node">
-<title>Node0x600001e73de0</title>
-<polygon fill="none" stroke="black" points="4839,-9 4839,-77 4927,-77 4927,-9 4839,-9"/>
-<text text-anchor="middle" x="4883" y="-66.6" font-family="Times,serif" font-size="8.00">word: beggarly</text>
-<polyline fill="none" stroke="black" points="4839,-60 4927,-60 "/>
-<text text-anchor="middle" x="4883" y="-49.6" font-family="Times,serif" font-size="8.00">size: 1</text>
-<polyline fill="none" stroke="black" points="4839,-43 4927,-43 "/>
-<text text-anchor="middle" x="4883" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e54120</text>
-<polyline fill="none" stroke="black" points="4839,-26 4927,-26 "/>
-<text text-anchor="middle" x="4883" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e79020</text>
+<title>Node0x60000070bde0</title>
+<polygon fill="none" stroke="black" points="4838,-9 4838,-77 4926,-77 4926,-9 4838,-9"/>
+<text text-anchor="middle" x="4882" y="-66.6" font-family="Times,serif" font-size="8.00">word: beggarly</text>
+<polyline fill="none" stroke="black" points="4838,-60 4926,-60 "/>
+<text text-anchor="middle" x="4882" y="-49.6" font-family="Times,serif" font-size="8.00">size: 1</text>
+<polyline fill="none" stroke="black" points="4838,-43 4926,-43 "/>
+<text text-anchor="middle" x="4882" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x6000007252c0</text>
+<polyline fill="none" stroke="black" points="4838,-26 4926,-26 "/>
+<text text-anchor="middle" x="4882" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x6000007206c0</text>
 </g>
-<!-- Node0x600001e79020&#45;&gt;Node0x600001e73de0 -->
+<!-- Node0x6000007206c0&#45;&gt;Node0x60000070bde0 -->
 <g id="edge39" class="edge">
-<title>Node0x600001e79020:n&#45;&gt;Node0x600001e73de0:n</title>
-<path fill="none" stroke="red" d="M4803,-34C4815,-34 4820.25,-34 4828.88,-34"/>
-<polygon fill="red" stroke="red" points="4829,-37.5 4839,-34 4829,-30.5 4829,-37.5"/>
+<title>Node0x6000007206c0:n&#45;&gt;Node0x60000070bde0:n</title>
+<path fill="none" stroke="red" d="M4802,-34C4814,-34 4819.25,-34 4827.88,-34"/>
+<polygon fill="red" stroke="red" points="4828,-37.5 4838,-34 4828,-30.5 4828,-37.5"/>
 </g>
-<!-- Node0x600001e54120 -->
+<!-- Node0x6000007252c0 -->
 <g id="node41" class="node">
-<title>Node0x600001e54120</title>
-<polygon fill="none" stroke="black" points="4963,-9 4963,-77 5051,-77 5051,-9 4963,-9"/>
-<text text-anchor="middle" x="5007" y="-66.6" font-family="Times,serif" font-size="8.00">word: intents</text>
-<polyline fill="none" stroke="black" points="4963,-60 5051,-60 "/>
-<text text-anchor="middle" x="5007" y="-49.6" font-family="Times,serif" font-size="8.00">size: 4</text>
-<polyline fill="none" stroke="black" points="4963,-43 5051,-43 "/>
-<text text-anchor="middle" x="5007" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e545d0</text>
-<polyline fill="none" stroke="black" points="4963,-26 5051,-26 "/>
-<text text-anchor="middle" x="5007" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e73de0</text>
+<title>Node0x6000007252c0</title>
+<polygon fill="none" stroke="black" points="4962,-9 4962,-77 5050,-77 5050,-9 4962,-9"/>
+<text text-anchor="middle" x="5006" y="-66.6" font-family="Times,serif" font-size="8.00">word: intents</text>
+<polyline fill="none" stroke="black" points="4962,-60 5050,-60 "/>
+<text text-anchor="middle" x="5006" y="-49.6" font-family="Times,serif" font-size="8.00">size: 4</text>
+<polyline fill="none" stroke="black" points="4962,-43 5050,-43 "/>
+<text text-anchor="middle" x="5006" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600000725770</text>
+<polyline fill="none" stroke="black" points="4962,-26 5050,-26 "/>
+<text text-anchor="middle" x="5006" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x60000070bde0</text>
 </g>
-<!-- Node0x600001e73de0&#45;&gt;Node0x600001e54120 -->
+<!-- Node0x60000070bde0&#45;&gt;Node0x6000007252c0 -->
 <g id="edge40" class="edge">
-<title>Node0x600001e73de0:n&#45;&gt;Node0x600001e54120:n</title>
-<path fill="none" stroke="red" d="M4927,-34C4939,-34 4944.25,-34 4952.88,-34"/>
-<polygon fill="red" stroke="red" points="4953,-37.5 4963,-34 4953,-30.5 4953,-37.5"/>
+<title>Node0x60000070bde0:n&#45;&gt;Node0x6000007252c0:n</title>
+<path fill="none" stroke="red" d="M4926,-34C4938,-34 4943.25,-34 4951.88,-34"/>
+<polygon fill="red" stroke="red" points="4952,-37.5 4962,-34 4952,-30.5 4952,-37.5"/>
 </g>
-<!-- Node0x600001e545d0 -->
+<!-- Node0x600000725770 -->
 <g id="node42" class="node">
-<title>Node0x600001e545d0</title>
-<polygon fill="none" stroke="black" points="5087,-9 5087,-77 5175,-77 5175,-9 5087,-9"/>
-<text text-anchor="middle" x="5131" y="-66.6" font-family="Times,serif" font-size="8.00">word: further</text>
-<polyline fill="none" stroke="black" points="5087,-60 5175,-60 "/>
-<text text-anchor="middle" x="5131" y="-49.6" font-family="Times,serif" font-size="8.00">size: 2</text>
-<polyline fill="none" stroke="black" points="5087,-43 5175,-43 "/>
-<text text-anchor="middle" x="5131" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e558f0</text>
-<polyline fill="none" stroke="black" points="5087,-26 5175,-26 "/>
-<text text-anchor="middle" x="5131" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e54120</text>
+<title>Node0x600000725770</title>
+<polygon fill="none" stroke="black" points="5086,-9 5086,-77 5174,-77 5174,-9 5086,-9"/>
+<text text-anchor="middle" x="5130" y="-66.6" font-family="Times,serif" font-size="8.00">word: further</text>
+<polyline fill="none" stroke="black" points="5086,-60 5174,-60 "/>
+<text text-anchor="middle" x="5130" y="-49.6" font-family="Times,serif" font-size="8.00">size: 2</text>
+<polyline fill="none" stroke="black" points="5086,-43 5174,-43 "/>
+<text text-anchor="middle" x="5130" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600000726a90</text>
+<polyline fill="none" stroke="black" points="5086,-26 5174,-26 "/>
+<text text-anchor="middle" x="5130" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x6000007252c0</text>
 </g>
-<!-- Node0x600001e54120&#45;&gt;Node0x600001e545d0 -->
+<!-- Node0x6000007252c0&#45;&gt;Node0x600000725770 -->
 <g id="edge41" class="edge">
-<title>Node0x600001e54120:n&#45;&gt;Node0x600001e545d0:n</title>
-<path fill="none" stroke="red" d="M5051,-34C5063,-34 5068.25,-34 5076.88,-34"/>
-<polygon fill="red" stroke="red" points="5077,-37.5 5087,-34 5077,-30.5 5077,-37.5"/>
+<title>Node0x6000007252c0:n&#45;&gt;Node0x600000725770:n</title>
+<path fill="none" stroke="red" d="M5050,-34C5062,-34 5067.25,-34 5075.88,-34"/>
+<polygon fill="red" stroke="red" points="5076,-37.5 5086,-34 5076,-30.5 5076,-37.5"/>
 </g>
-<!-- Node0x600001e558f0 -->
+<!-- Node0x600000726a90 -->
 <g id="node43" class="node">
-<title>Node0x600001e558f0</title>
-<polygon fill="none" stroke="black" points="5211,-9 5211,-77 5299,-77 5299,-9 5211,-9"/>
-<text text-anchor="middle" x="5255" y="-66.6" font-family="Times,serif" font-size="8.00">word: Raise</text>
-<polyline fill="none" stroke="black" points="5211,-60 5299,-60 "/>
-<text text-anchor="middle" x="5255" y="-49.6" font-family="Times,serif" font-size="8.00">size: 1</text>
-<polyline fill="none" stroke="black" points="5211,-43 5299,-43 "/>
-<text text-anchor="middle" x="5255" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600001e561f0</text>
-<polyline fill="none" stroke="black" points="5211,-26 5299,-26 "/>
-<text text-anchor="middle" x="5255" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e545d0</text>
+<title>Node0x600000726a90</title>
+<polygon fill="none" stroke="black" points="5210,-9 5210,-77 5298,-77 5298,-9 5210,-9"/>
+<text text-anchor="middle" x="5254" y="-66.6" font-family="Times,serif" font-size="8.00">word: Raise</text>
+<polyline fill="none" stroke="black" points="5210,-60 5298,-60 "/>
+<text text-anchor="middle" x="5254" y="-49.6" font-family="Times,serif" font-size="8.00">size: 1</text>
+<polyline fill="none" stroke="black" points="5210,-43 5298,-43 "/>
+<text text-anchor="middle" x="5254" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x600000727390</text>
+<polyline fill="none" stroke="black" points="5210,-26 5298,-26 "/>
+<text text-anchor="middle" x="5254" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600000725770</text>
 </g>
-<!-- Node0x600001e545d0&#45;&gt;Node0x600001e558f0 -->
+<!-- Node0x600000725770&#45;&gt;Node0x600000726a90 -->
 <g id="edge42" class="edge">
-<title>Node0x600001e545d0:n&#45;&gt;Node0x600001e558f0:n</title>
-<path fill="none" stroke="red" d="M5175,-34C5187,-34 5192.25,-34 5200.88,-34"/>
-<polygon fill="red" stroke="red" points="5201,-37.5 5211,-34 5201,-30.5 5201,-37.5"/>
+<title>Node0x600000725770:n&#45;&gt;Node0x600000726a90:n</title>
+<path fill="none" stroke="red" d="M5174,-34C5186,-34 5191.25,-34 5199.88,-34"/>
+<polygon fill="red" stroke="red" points="5200,-37.5 5210,-34 5200,-30.5 5200,-37.5"/>
 </g>
-<!-- Node0x600001e561f0 -->
+<!-- Node0x600000727390 -->
 <g id="node44" class="node">
-<title>Node0x600001e561f0</title>
-<polygon fill="none" stroke="black" points="5335,-9 5335,-77 5422,-77 5422,-9 5335,-9"/>
-<text text-anchor="middle" x="5378.5" y="-66.6" font-family="Times,serif" font-size="8.00">word: dire</text>
-<polyline fill="none" stroke="black" points="5335,-60 5422,-60 "/>
-<text text-anchor="middle" x="5378.5" y="-49.6" font-family="Times,serif" font-size="8.00">size: 1</text>
-<polyline fill="none" stroke="black" points="5335,-43 5422,-43 "/>
-<text text-anchor="middle" x="5378.5" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x0</text>
-<polyline fill="none" stroke="black" points="5335,-26 5422,-26 "/>
-<text text-anchor="middle" x="5378.5" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600001e558f0</text>
+<title>Node0x600000727390</title>
+<polygon fill="none" stroke="black" points="5334,-9 5334,-77 5422,-77 5422,-9 5334,-9"/>
+<text text-anchor="middle" x="5378" y="-66.6" font-family="Times,serif" font-size="8.00">word: dire</text>
+<polyline fill="none" stroke="black" points="5334,-60 5422,-60 "/>
+<text text-anchor="middle" x="5378" y="-49.6" font-family="Times,serif" font-size="8.00">size: 1</text>
+<polyline fill="none" stroke="black" points="5334,-43 5422,-43 "/>
+<text text-anchor="middle" x="5378" y="-32.6" font-family="Times,serif" font-size="8.00">next: 0x0</text>
+<polyline fill="none" stroke="black" points="5334,-26 5422,-26 "/>
+<text text-anchor="middle" x="5378" y="-15.6" font-family="Times,serif" font-size="8.00">prev: 0x600000726a90</text>
 </g>
-<!-- Node0x600001e558f0&#45;&gt;Node0x600001e561f0 -->
+<!-- Node0x600000726a90&#45;&gt;Node0x600000727390 -->
 <g id="edge43" class="edge">
-<title>Node0x600001e558f0:n&#45;&gt;Node0x600001e561f0:n</title>
-<path fill="none" stroke="red" d="M5299,-34C5311,-34 5316.25,-34 5324.88,-34"/>
-<polygon fill="red" stroke="red" points="5325,-37.5 5335,-34 5325,-30.5 5325,-37.5"/>
+<title>Node0x600000726a90:n&#45;&gt;Node0x600000727390:n</title>
+<path fill="none" stroke="red" d="M5298,-34C5310,-34 5315.25,-34 5323.88,-34"/>
+<polygon fill="red" stroke="red" points="5324,-37.5 5334,-34 5324,-30.5 5324,-37.5"/>
 </g>
 </g>
 </svg>

@@ -36,7 +36,7 @@ void table_dtor(hash_table* p_hash_table)
     size_t sum = 0;
     for(size_t i = 0; i < p_hash_table->size; i++)
     {
-        //list_dump(&p_hash_table->table[i]);
+        list_dump(&p_hash_table->table[i]);
         list_dtor(&p_hash_table->table[i]);
     }
     free(p_hash_table->table);

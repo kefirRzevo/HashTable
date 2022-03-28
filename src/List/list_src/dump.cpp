@@ -10,14 +10,12 @@ static FILE*  logfile           = nullptr;
 
 static FILE* dump_init(const char* const dump_path);
 
-static void  dump_close();
-
 static void  make_one_dump(const list* const p_list, char* img_path);
 
 
-static void dump_close()
+void dump_close()
 {
-    fprintf(logfile, "\t</body>\n"
+    fprintf(logfile, "\n\t</body>\n"
                      "</html>\n");
 }
 
@@ -89,9 +87,13 @@ void list_dump(const list* const p_list)
     close_dot_txt(dotfile);
     system(cmd_string);
 
+    if(!logfile)
+    {
+        atexit(dump_close);
+    }
+
     logfile = dump_init(dump_path);
     assert(logfile);
     make_one_dump(p_list, img_path);
-    atexit(dump_close);
     N_DUMPS++;
 }
